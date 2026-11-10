@@ -1,0 +1,11 @@
+{
+  "rouge1": 0.24442661270325308,
+  "rougeL": 0.15261430348964794,
+  "validation_seconds": 405.66279713400036,
+  "method": "pfeiffer",
+  "teacher": null,
+  "train_seconds": 2997.1377732949986,
+  "steps": 1250,
+  "total_parameters": 96440832,
+  "trainable_parameters": 1208064
+}

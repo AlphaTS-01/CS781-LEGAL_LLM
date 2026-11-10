@@ -1,0 +1,15 @@
+{
+  "arch": "relay_lstm",
+  "vocab": 16384,
+  "context": 1024,
+  "dim": 768,
+  "heads": 12,
+  "layers": 22,
+  "ff_dim": 2048,
+  "anchor_rank": 64,
+  "anchor_every": 4,
+  "recurrent_dim": 512,
+  "attention_every": 3,
+  "ablation": "full",
+  "grad_checkpoint": true
+}

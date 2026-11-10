@@ -1,0 +1,8 @@
+# Preserve downloaded artifact bytes for the SHA-256 checks in the phase manifests.
+code/phase*/runs/** -text
+code/phase*/rerankers/** -text
+code/phase*/submissions/** -text
+code/phase*/final_predictions/** -text
+code/phase*/final_six_hybrid/** -text
+code/phase*/session_source.py -text
+code/phase3/label_vocab.json -text

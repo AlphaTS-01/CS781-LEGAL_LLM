@@ -1,0 +1,5 @@
+{"step": 20, "target_tokens": 142795, "val_loss": 7.541839487726991, "elapsed_seconds": 210.810339117}
+{"step": 100, "target_tokens": 727126, "val_loss": 5.708368703825905, "elapsed_seconds": 1077.2835517180001}
+{"step": 200, "target_tokens": 1452933, "val_loss": 4.8024412647605, "elapsed_seconds": 2211.289088284}
+{"step": 300, "target_tokens": 2173709, "val_loss": 4.308985854714052, "elapsed_seconds": 3312.5778592529996}
+{"step": 400, "target_tokens": 2909970, "val_loss": 3.9107236297208665, "elapsed_seconds": 4444.432440158}

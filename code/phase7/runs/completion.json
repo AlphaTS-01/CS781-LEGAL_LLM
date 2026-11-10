@@ -1,0 +1,10 @@
+{
+  "smoke": false,
+  "exports": [
+    "/kaggle/working/phase7_pcr/runs/lorma/submission.zip"
+  ],
+  "six_methods_complete": false,
+  "metric": "Dev Micro-F1@7",
+  "architecture": "LEXWeave",
+  "official_test_scores": "Requires manual submission to official evaluator"
+}

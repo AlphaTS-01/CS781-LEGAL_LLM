@@ -1,0 +1,275 @@
+{
+  "phase": 6,
+  "archives": [
+    {
+      "filename": "phase6_kaggle_output.zip",
+      "checkpoints": [
+        {
+          "member": "phase6_summ/runs/lorma/last.pt",
+          "bytes": 402047886,
+          "zip_crc32": "218f2f1c",
+          "sha256": "ff230bf39c0dc371d880ca427073ea85b02f54c21349ed3db7d2f76e29f5d193"
+        },
+        {
+          "member": "phase6_summ/runs/houlsby/last.pt",
+          "bytes": 410191725,
+          "zip_crc32": "abd3e66a",
+          "sha256": "ab3690569e5284f21b4771b9ca01158ec189e970d264d1728c2069084a2aacc0"
+        },
+        {
+          "member": "phase6_summ/runs/lora/last.pt",
+          "bytes": 402485902,
+          "zip_crc32": "833ef0bd",
+          "sha256": "95e7d2b1856e15b1dd2cee11ece697d7342890071082c924155bd82ab272dfbe"
+        },
+        {
+          "member": "phase6_summ/runs/prompt/last.pt",
+          "bytes": 381173285,
+          "zip_crc32": "0207916a",
+          "sha256": "6833626cba035e2ba828258d33f835e7f90f0a46b49d4783a406b76856b0df62"
+        },
+        {
+          "member": "phase6_summ/runs/kd/last.pt",
+          "bytes": 647042173,
+          "zip_crc32": "368f38a4",
+          "sha256": "ab71eb6cb81b29e5c8fec6c94241c7b20a19776fa8a2dc43dd944536f55e3ee4"
+        },
+        {
+          "member": "phase6_summ/runs/pfeiffer/last.pt",
+          "bytes": 395610285,
+          "zip_crc32": "9cb67cec",
+          "sha256": "df177a12111088939e201cfa38d69c3afd2ee4215a449558277afd3584532d58"
+        }
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "path": "session_source.py",
+      "archive": "phase6_kaggle_output.zip",
+      "member": ".virtual_documents/__notebook_source__.ipynb",
+      "sha256": "524fdcebb6236052e7cbbb4898be40a1baab50949be6b164a6cd7e0933774e27"
+    },
+    {
+      "path": "runs/split.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/split.json",
+      "sha256": "50f64d64a6077f7a07aa8d9d3f2581811b00844c35fc361738eb46373ae47f4f"
+    },
+    {
+      "path": "runs/completion.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/completion.json",
+      "sha256": "4adaea493c1bb41327d86baf38d61cad524fce24adc0ba1d6cffda44ce14bf2f"
+    },
+    {
+      "path": "runs/comparison.csv",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/comparison.csv",
+      "sha256": "0aaaca36feffb437056188f9e7797de66f5dd656fe21d7acd8da17d0718d7530"
+    },
+    {
+      "path": "runs/comparison.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/comparison.json",
+      "sha256": "1fc03afd85fecf49933585ebea0c31240336c5dec3cde8ba9a16ebd2bcd4383f"
+    },
+    {
+      "path": "runs/coverage.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/coverage.json",
+      "sha256": "8f3628b8d0050a50a5b6ac50cc745bbc2abee5d8cc9d00338323b5572934da6c"
+    },
+    {
+      "path": "runs/data_quality.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/data_quality.json",
+      "sha256": "e075a4e32adfda1ac5ae1e0af53ca9d2d3da96710304ecef9e48c80092809861"
+    },
+    {
+      "path": "runs/download.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/download.json",
+      "sha256": "f57ff7cdf4df3b2e9f92c90c5ecafda47563a55b869b4a1707a0f17d9482fd8b"
+    },
+    {
+      "path": "runs/data_hashes.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/data_hashes.json",
+      "sha256": "bc963d6435ce6e037e965d1a6fbf5c668ce1e8add31e8248131cb5df27a75a53"
+    },
+    {
+      "path": "runs/lorma/inference.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/lorma/inference.json",
+      "sha256": "d1deab19b31373c664e4a38df5378b72c49f6be52a579835d4967b036a4c8757"
+    },
+    {
+      "path": "runs/lorma/prediction.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/lorma/prediction.json",
+      "sha256": "0ee65f2c4862e238367290a89e0dbf03c4f5d882c44fab3ed6bfbac46e9c26f8"
+    },
+    {
+      "path": "runs/lorma/metrics.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/lorma/metrics.json",
+      "sha256": "d2deefd8574094e08e16698827ce2fba19db015856c6f1d44c0afbe70eeb6c4f"
+    },
+    {
+      "path": "runs/houlsby/inference.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/houlsby/inference.json",
+      "sha256": "89d05f6b8edbe5c6668046cde4c36b3bb433e5208e105acda68f12a5c7b162b4"
+    },
+    {
+      "path": "runs/houlsby/prediction.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/houlsby/prediction.json",
+      "sha256": "e8e670ded5cf05552725597c964d15bb3f839d03f6e9f37cb1b36b61ee4f3f1d"
+    },
+    {
+      "path": "runs/houlsby/metrics.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/houlsby/metrics.json",
+      "sha256": "61c66a8815e32cdce259346d1ea486a6e873e7ba2c7528ff13ab541d27fe835a"
+    },
+    {
+      "path": "runs/lora/inference.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/lora/inference.json",
+      "sha256": "ba1f986e3b3b706f134db07f746d8338b3905b03747b133161fd48bdca02b790"
+    },
+    {
+      "path": "runs/lora/prediction.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/lora/prediction.json",
+      "sha256": "03dce0fc7245258638b95fd0f63dace9cc0c2c3532427b342f5e16a7f3390ccc"
+    },
+    {
+      "path": "runs/lora/metrics.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/lora/metrics.json",
+      "sha256": "09bdcaefd7f41ec17209b1d3fe1b44fc40d2268e8ee521fb0b2c1af87680c2e4"
+    },
+    {
+      "path": "runs/prompt/inference.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/prompt/inference.json",
+      "sha256": "643c32f805661c26718276f45f81daad2b6f70b77f1c643ce1beeaaf0f77bd9c"
+    },
+    {
+      "path": "runs/prompt/prediction.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/prompt/prediction.json",
+      "sha256": "6492b84abb18aac4ef64b5b74780ecb4a15e8fe034ab2f67e583311a1578428d"
+    },
+    {
+      "path": "runs/prompt/metrics.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/prompt/metrics.json",
+      "sha256": "e11eb06c1c61c7b18f91f322278476093674f985611de758e079caeb22b54a1b"
+    },
+    {
+      "path": "runs/kd/inference.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/kd/inference.json",
+      "sha256": "6e1d5d7bc530d95535007b8721a7bb646535818743d3c627e98628dbb396db6e"
+    },
+    {
+      "path": "runs/kd/prediction.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/kd/prediction.json",
+      "sha256": "75904e9a95c9f31fc9ce0bef5c653d0da914eceaa4de5d1fe17aa4e4e8aa5d03"
+    },
+    {
+      "path": "runs/kd/metrics.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/kd/metrics.json",
+      "sha256": "0734a67a605fdd06d1a2f52a5ce99103fef06b7d72653e63807b34e31f7e84a8"
+    },
+    {
+      "path": "runs/pfeiffer/inference.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/pfeiffer/inference.json",
+      "sha256": "664f70987d516adc2056b4935ef77541a59d108f72cc65e2b1d1f27431bd5a67"
+    },
+    {
+      "path": "runs/pfeiffer/prediction.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/pfeiffer/prediction.json",
+      "sha256": "9260c9f270b48f8cb4a7ae362fe06cce7d8549c3fc971e6baac2a0ff110e75cf"
+    },
+    {
+      "path": "runs/pfeiffer/metrics.json",
+      "archive": "phase6_kaggle_output.zip",
+      "member": "phase6_summ/runs/pfeiffer/metrics.json",
+      "sha256": "213e2cb92b6fa23c4c913c72c994b44271be1b2573db7f2f324d50587a0f1289"
+    }
+  ],
+  "submissions": [
+    {
+      "id": 1029566,
+      "filename_shown": "pmpt6.zip",
+      "status": "Finished",
+      "score_shown": 0.8162,
+      "local_export": "pmpt6.zip",
+      "prediction_sha256": "6492b84abb18aac4ef64b5b74780ecb4a15e8fe034ab2f67e583311a1578428d",
+      "matching_prediction_paths": [
+        "runs/prompt/prediction.json"
+      ]
+    },
+    {
+      "id": 1029351,
+      "filename_shown": "pmpt6.zip",
+      "status": "Failed",
+      "score_shown": null,
+      "note": "A finished retry has the same filename. The content of this attempt is unverified."
+    },
+    {
+      "id": 1029350,
+      "filename_shown": "hbyp6.zip",
+      "status": "Finished",
+      "score_shown": 0.8253,
+      "local_export": "hbyp6.zip",
+      "prediction_sha256": "e8e670ded5cf05552725597c964d15bb3f839d03f6e9f37cb1b36b61ee4f3f1d",
+      "matching_prediction_paths": [
+        "runs/houlsby/prediction.json"
+      ]
+    },
+    {
+      "id": 1029348,
+      "filename_shown": "pfp6.zip",
+      "status": "Finished",
+      "score_shown": 0.8263,
+      "local_export": "pfp6.zip",
+      "prediction_sha256": "9260c9f270b48f8cb4a7ae362fe06cce7d8549c3fc971e6baac2a0ff110e75cf",
+      "matching_prediction_paths": [
+        "runs/pfeiffer/prediction.json"
+      ]
+    },
+    {
+      "id": 1029346,
+      "filename_shown": "lormap6.zip",
+      "status": "Finished",
+      "score_shown": 0.8276,
+      "local_export": "lormap6.zip",
+      "prediction_sha256": "0ee65f2c4862e238367290a89e0dbf03c4f5d882c44fab3ed6bfbac46e9c26f8",
+      "matching_prediction_paths": [
+        "runs/lorma/prediction.json"
+      ]
+    },
+    {
+      "id": 1029345,
+      "filename_shown": "lorap6.zip",
+      "status": "Finished",
+      "score_shown": 0.8269,
+      "local_export": "lorap6.zip",
+      "prediction_sha256": "03dce0fc7245258638b95fd0f63dace9cc0c2c3532427b342f5e16a7f3390ccc",
+      "matching_prediction_paths": [
+        "runs/lora/prediction.json"
+      ]
+    }
+  ],
+  "matching_basis": "Submission IDs, displayed filenames, status and scores were transcribed from Codabench screenshots. Local exports are associated by filename. Run links identify equal parsed prediction JSON; a matching filename alone does not prove what was uploaded."
+}

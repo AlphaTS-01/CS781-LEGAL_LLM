@@ -1,0 +1,15 @@
+{
+  "arch": "lexweave",
+  "best_step": 5840,
+  "examples": 12,
+  "rougeL_f1": 0.19902439175039188,
+  "sacrebleu_bleu4": 5.2653049906771985,
+  "parameters": 95232768,
+  "prompt_truncation_count": 0,
+  "temperature": 0.0,
+  "top_p": 0.9,
+  "repetition_penalty": 1.1,
+  "official_bertscore_f1": null,
+  "official_rougeL_f1": null,
+  "official_bleu4": null
+}

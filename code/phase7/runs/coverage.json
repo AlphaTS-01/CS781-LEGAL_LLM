@@ -1,0 +1,32 @@
+{
+  "Train/queries": {
+    "documents": 817,
+    "mean_coverage": 0.09288011253802446,
+    "truncated": 812
+  },
+  "Train/candidates": {
+    "documents": 4320,
+    "mean_coverage": 0.1382468419316885,
+    "truncated": 4204
+  },
+  "Dev/queries": {
+    "documents": 118,
+    "mean_coverage": 0.07824759364448414,
+    "truncated": 118
+  },
+  "Dev/candidates": {
+    "documents": 1023,
+    "mean_coverage": 0.12850506048243665,
+    "truncated": 995
+  },
+  "Test/queries": {
+    "documents": 237,
+    "mean_coverage": 0.10641893001932483,
+    "truncated": 234
+  },
+  "Test/candidates": {
+    "documents": 1727,
+    "mean_coverage": 0.12800893208706327,
+    "truncated": 1692
+  }
+}

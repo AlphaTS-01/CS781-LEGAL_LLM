@@ -1,0 +1,11 @@
+{
+  "rouge1": 0.2764998573874667,
+  "rougeL": 0.16854985690055022,
+  "validation_seconds": 575.6538795680008,
+  "method": "lorma",
+  "teacher": null,
+  "train_seconds": 3602.6950597629993,
+  "steps": 1139,
+  "total_parameters": 96954432,
+  "trainable_parameters": 1721664
+}

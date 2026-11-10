@@ -1,0 +1,15 @@
+{
+  "arch": "bridge",
+  "dim": 768,
+  "heads": 12,
+  "encoder_layers": 6,
+  "decoder_layers": 12,
+  "ff_dim": 2048,
+  "vocab": 16384,
+  "pad": 0,
+  "context": 1024,
+  "source_context": 768,
+  "latent_slots": 32,
+  "ablation": "full",
+  "grad_checkpoint": true
+}

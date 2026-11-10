@@ -1,0 +1,8 @@
+{
+  "Train/train.json": "3cfb215caa19285b846d823bfefc7f005db36f343cf60781868fd95fadf472d1",
+  "Train/train_candidates.json": "b8570b43c21535c4f7bb00cd923ccf2d0304b0867e99c0abe30c6bd22c1e125c",
+  "Dev/dev.json": "7d77e075fcaf756db45b16fd0edc9c371401ac1ea205ce2939c3aff0ed8b4f1b",
+  "Dev/dev_candidates.json": "9681bb0094040f6352e96d17b0870098590bab3dbdd663d7a2f24925589f76a4",
+  "Test/test.json": "fe599dc6ad3b1a08e8c3ebc308f3c1ed7f0aaf6cc8182a9fc536538cfd21cb4b",
+  "Test/test_candidates.json": "55d54fa02faec824f85b1c9dfca8b22bf26c6a19ecc33560426756be3f4abef8"
+}

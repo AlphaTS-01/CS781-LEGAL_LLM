@@ -1,0 +1,11 @@
+{
+  "rouge1": 0.24058537556470658,
+  "rougeL": 0.1487206266738498,
+  "validation_seconds": 467.8090194280012,
+  "method": "prompt",
+  "teacher": null,
+  "train_seconds": 2957.4500084590018,
+  "steps": 1250,
+  "total_parameters": 95245056,
+  "trainable_parameters": 12288
+}

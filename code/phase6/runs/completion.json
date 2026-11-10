@@ -1,0 +1,23 @@
+{
+  "smoke": false,
+  "methods": [
+    "lora",
+    "lorma",
+    "houlsby",
+    "pfeiffer",
+    "prompt",
+    "kd"
+  ],
+  "exports": [
+    "/kaggle/working/phase6_summ/runs/lora/submission.zip",
+    "/kaggle/working/phase6_summ/runs/lorma/submission.zip",
+    "/kaggle/working/phase6_summ/runs/houlsby/submission.zip",
+    "/kaggle/working/phase6_summ/runs/pfeiffer/submission.zip",
+    "/kaggle/working/phase6_summ/runs/prompt/submission.zip",
+    "/kaggle/working/phase6_summ/runs/kd/submission.zip"
+  ],
+  "six_methods_complete": true,
+  "local_primary_metric": "not computed; official BERTScore requires evaluator",
+  "architecture": "LEXWeave only",
+  "context_strategy": "spread"
+}

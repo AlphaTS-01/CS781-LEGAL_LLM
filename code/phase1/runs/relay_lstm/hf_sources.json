@@ -1,0 +1,31 @@
+{
+  "repo": "Exploration-Lab/CS-781-Capstone",
+  "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e",
+  "train": [
+    {
+      "path": "Phase_1_Pretraining/Train/train_acts.json",
+      "size": 728801891,
+      "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e"
+    },
+    {
+      "path": "Phase_1_Pretraining/Train/train_high_courts.json",
+      "size": 10672497795,
+      "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e"
+    },
+    {
+      "path": "Phase_1_Pretraining/Train/train_supreme_court.json",
+      "size": 1322567168,
+      "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e"
+    },
+    {
+      "path": "Phase_1_Pretraining/Train/train_tribunals.json",
+      "size": 6483962193,
+      "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e"
+    }
+  ],
+  "test": {
+    "path": "Phase_1_Pretraining/Test/test.json",
+    "size": 3034778,
+    "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e"
+  }
+}

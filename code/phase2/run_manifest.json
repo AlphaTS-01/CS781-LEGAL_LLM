@@ -1,0 +1,165 @@
+{
+  "phase": 2,
+  "archives": [
+    {
+      "filename": "phase2_kaggle_output.zip",
+      "checkpoints": [
+        {
+          "member": "cs781_phase2/E5_partial_M1_lexweave/model.pt",
+          "bytes": 110302353,
+          "zip_crc32": "6348e4e8",
+          "sha256": "915cbbe134abc677f04343d2c73c00853dbad08982c09d3261efd03d4df9d0ce"
+        },
+        {
+          "member": "cs781_phase2/E2_lorma_M1_lexweave/model.pt",
+          "bytes": 13930687,
+          "zip_crc32": "1d4c320a",
+          "sha256": "21be9afc60d5869458db98b1f0d0c9473c6585e54eb4079284d6252b7a0e4565"
+        },
+        {
+          "member": "cs781_phase2/E3_lora_cont_M1_lexweave/model.pt",
+          "bytes": 14220287,
+          "zip_crc32": "88de2fd3",
+          "sha256": "88b458f8bc9eeb9fb2481c609d40db9621df5be477e47e5cacfb41495160deda"
+        },
+        {
+          "member": "cs781_phase2/E6_kd_M1_lexweave/model.pt",
+          "bytes": 215742503,
+          "zip_crc32": "be0f25a5",
+          "sha256": "6fe00ecf207c938a6e58f7d064f7d783c369273775cacd91ed5ba02670c684f9"
+        },
+        {
+          "member": "cs781_phase2/E1_full_M1_lexweave/model.pt",
+          "bytes": 381067383,
+          "zip_crc32": "dbe1966f",
+          "sha256": "f2ef1cc302073d27bca399ef7e21321d3eae10c3d215fa32fe3ece00b4af54a8"
+        },
+        {
+          "member": "cs781_phase2/E3_lora_M1_lexweave/model.pt",
+          "bytes": 14220287,
+          "zip_crc32": "14b5d05a",
+          "sha256": "158034d472ff01b1e716d21da3b2fd4681abec91328cd62f4b8fad89a5f41a28"
+        }
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "path": "runs/results.jsonl",
+      "archive": "phase2_kaggle_output.zip",
+      "member": "cs781_phase2/results.jsonl",
+      "sha256": "5fe428435d12d6d6c4fc4b75df732e5d6ac9c4efcc26469293b0caa81515538f"
+    },
+    {
+      "path": "session_source.py",
+      "archive": "phase2_kaggle_output.zip",
+      "member": ".virtual_documents/__notebook_source__.ipynb",
+      "sha256": "29ef52d188f29d934f21797b0193ef0c6ad6815936e5ee4ee09ff048b177c702"
+    },
+    {
+      "path": "runs/E5_partial_M1_lexweave/prediction.json",
+      "archive": "phase2_kaggle_output.zip",
+      "member": "cs781_phase2/E5_partial_M1_lexweave/prediction.json",
+      "sha256": "e8a08096de44e9544909edd17ad736f8c541b6efcf21024d66d26f043a1031f1"
+    },
+    {
+      "path": "runs/E2_lorma_M1_lexweave/prediction.json",
+      "archive": "phase2_kaggle_output.zip",
+      "member": "cs781_phase2/E2_lorma_M1_lexweave/prediction.json",
+      "sha256": "b50e7cf51f4473367ae9382733a167fd7566ca1ee947b9a4ea0a82d5989fc450"
+    },
+    {
+      "path": "runs/E3_lora_cont_M1_lexweave/prediction.json",
+      "archive": "phase2_kaggle_output.zip",
+      "member": "cs781_phase2/E3_lora_cont_M1_lexweave/prediction.json",
+      "sha256": "79d54bdc42924477d622a93e4080e1399a22a2e72f6b388d8039faeebf44ebbb"
+    },
+    {
+      "path": "runs/E6_kd_M1_lexweave/prediction.json",
+      "archive": "phase2_kaggle_output.zip",
+      "member": "cs781_phase2/E6_kd_M1_lexweave/prediction.json",
+      "sha256": "b9ebae9b3459a7365ea1603cca011535abf91e55f88f7d6d0c0c7b3edc6cc01e"
+    },
+    {
+      "path": "runs/E1_full_M1_lexweave/prediction.json",
+      "archive": "phase2_kaggle_output.zip",
+      "member": "cs781_phase2/E1_full_M1_lexweave/prediction.json",
+      "sha256": "e902e9c51a2dbeec67d0a5eb5a99c448673f484b45125b7c2960ece9baeb4707"
+    },
+    {
+      "path": "runs/E3_lora_M1_lexweave/prediction.json",
+      "archive": "phase2_kaggle_output.zip",
+      "member": "cs781_phase2/E3_lora_M1_lexweave/prediction.json",
+      "sha256": "3539617d0854fbccef95455d323adecf12db7dab51c8376005043959e29ed558"
+    }
+  ],
+  "submissions": [
+    {
+      "id": 978777,
+      "filename_shown": "final.zip",
+      "status": "Finished",
+      "score_shown": 0.4858,
+      "local_export": "final.zip",
+      "prediction_sha256": "79d54bdc42924477d622a93e4080e1399a22a2e72f6b388d8039faeebf44ebbb",
+      "matching_prediction_paths": [
+        "runs/E3_lora_cont_M1_lexweave/prediction.json"
+      ]
+    },
+    {
+      "id": 977900,
+      "filename_shown": "e6_kd.zip",
+      "status": "Finished",
+      "score_shown": 0.4629,
+      "local_export": "e6_kd.zip",
+      "prediction_sha256": "b9ebae9b3459a7365ea1603cca011535abf91e55f88f7d6d0c0c7b3edc6cc01e",
+      "matching_prediction_paths": [
+        "runs/E6_kd_M1_lexweave/prediction.json"
+      ]
+    },
+    {
+      "id": 977798,
+      "filename_shown": "e5_partial.zip",
+      "status": "Finished",
+      "score_shown": 0.4853,
+      "local_export": "e5_partial.zip",
+      "prediction_sha256": "e8a08096de44e9544909edd17ad736f8c541b6efcf21024d66d26f043a1031f1",
+      "matching_prediction_paths": [
+        "runs/E5_partial_M1_lexweave/prediction.json"
+      ]
+    },
+    {
+      "id": 977791,
+      "filename_shown": "e3_lora.zip",
+      "status": "Finished",
+      "score_shown": 0.4957,
+      "local_export": "e3_lora.zip",
+      "prediction_sha256": "3539617d0854fbccef95455d323adecf12db7dab51c8376005043959e29ed558",
+      "matching_prediction_paths": [
+        "runs/E3_lora_M1_lexweave/prediction.json"
+      ]
+    },
+    {
+      "id": 977696,
+      "filename_shown": "E2_lorma.zip",
+      "status": "Finished",
+      "score_shown": 0.4956,
+      "local_export": "E2_lorma.zip",
+      "prediction_sha256": "b50e7cf51f4473367ae9382733a167fd7566ca1ee947b9a4ea0a82d5989fc450",
+      "matching_prediction_paths": [
+        "runs/E2_lorma_M1_lexweave/prediction.json"
+      ]
+    },
+    {
+      "id": 977563,
+      "filename_shown": "E1_full.zip",
+      "status": "Finished",
+      "score_shown": 0.4486,
+      "local_export": "E1_full.zip",
+      "prediction_sha256": "e902e9c51a2dbeec67d0a5eb5a99c448673f484b45125b7c2960ece9baeb4707",
+      "matching_prediction_paths": [
+        "runs/E1_full_M1_lexweave/prediction.json"
+      ]
+    }
+  ],
+  "matching_basis": "Submission IDs, displayed filenames, status and scores were transcribed from Codabench screenshots. Local exports are associated by filename. Run links identify equal parsed prediction JSON; a matching filename alone does not prove what was uploaded."
+}

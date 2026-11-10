@@ -1,0 +1,11 @@
+{
+  "rouge1": 0.2707494787495372,
+  "rougeL": 0.1636524409137355,
+  "validation_seconds": 578.5553455090003,
+  "method": "lora",
+  "teacher": null,
+  "train_seconds": 3600.0261915289993,
+  "steps": 1127,
+  "total_parameters": 96990624,
+  "trainable_parameters": 1757856
+}

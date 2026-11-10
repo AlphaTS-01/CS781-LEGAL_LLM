@@ -1,0 +1,15 @@
+{
+    "Fact": 0,
+    "Issue": 1,
+    "ArgumentPetitioner": 2,
+    "ArgumentRespondent": 3,
+    "Statute": 4,
+    "Dissent": 5,
+    "PrecedentReliedUpon": 6,
+    "PrecedentNotReliedUpon": 7,
+    "PrecedentOverruled": 8,
+    "RulingByLowerCourt": 9,
+    "RatioOfTheDecision": 10,
+    "RulingByPresentCourt": 11,
+    "None": 12
+}

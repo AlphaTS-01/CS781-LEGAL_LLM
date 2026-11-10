@@ -1,0 +1,42 @@
+{
+  "train_train_acts": {
+    "tokens": 22366153,
+    "docs": 2592,
+    "shards": 3
+  },
+  "train_train_high_courts": {
+    "tokens": 87682543,
+    "docs": 158272,
+    "shards": 159
+  },
+  "train_train_supreme_court": {
+    "tokens": 53906333,
+    "docs": 10671,
+    "shards": 11
+  },
+  "train_train_tribunals": {
+    "tokens": 55521925,
+    "docs": 17419,
+    "shards": 18
+  },
+  "val_train_acts": {
+    "tokens": 102699,
+    "docs": 16,
+    "shards": 1
+  },
+  "val_train_high_courts": {
+    "tokens": 901579,
+    "docs": 1623,
+    "shards": 2
+  },
+  "val_train_supreme_court": {
+    "tokens": 473888,
+    "docs": 100,
+    "shards": 1
+  },
+  "val_train_tribunals": {
+    "tokens": 573989,
+    "docs": 188,
+    "shards": 1
+  }
+}

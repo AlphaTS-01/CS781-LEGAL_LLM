@@ -1,0 +1,291 @@
+{
+  "phase": 3,
+  "archives": [
+    {
+      "filename": "phase3_kaggle_output.zip",
+      "checkpoints": [
+        {
+          "member": "cs781_phase3/foundation/model.pt",
+          "bytes": 381003183,
+          "zip_crc32": "89aaed73",
+          "sha256": "3b7799e0fd0cc0470e15a071182f59fcfa439e65ddb1edef80e84a9138eb054e"
+        },
+        {
+          "member": "cs781_phase3/runs/E2_lora/model.pt",
+          "bytes": 13633887,
+          "zip_crc32": "b41a472e",
+          "sha256": "a7750fd599d35583f2f93191cb9bb0bcebfae4f74a1aee60abb149cfe8b8b432"
+        },
+        {
+          "member": "cs781_phase3/runs/E4_ia3/model.pt",
+          "bytes": 4508706,
+          "zip_crc32": "2731158a",
+          "sha256": "b81ff76f185fc5b634f2edf5e0f52da3a5af3962191810bafd1c535923dff573"
+        },
+        {
+          "member": "cs781_phase3/runs/E6_kd/model.pt",
+          "bytes": 220024903,
+          "zip_crc32": "ce458bcc",
+          "sha256": "f608e8adcd0f25076fca59c718663e9331435d054c306eb2d97f5717c134e5ed"
+        },
+        {
+          "member": "cs781_phase3/runs/E1_lorma/model.pt",
+          "bytes": 15010207,
+          "zip_crc32": "a8843826",
+          "sha256": "f3413b59f93cc5252adeeb2259ddc895067aa12989b8468503a066fe7a35d92f"
+        },
+        {
+          "member": "cs781_phase3/runs/E3_rslora/model.pt",
+          "bytes": 41355679,
+          "zip_crc32": "c4bdc795",
+          "sha256": "30755ed743d99760dfe031106088b2f9f078a0537e26b77ac594d91ee7327703"
+        },
+        {
+          "member": "cs781_phase3/runs/E5_prompt/model.pt",
+          "bytes": 4464081,
+          "zip_crc32": "aa1ee5d3",
+          "sha256": "30673a9c246adc1b38823b29e9f6afc091380e101053915df363f7493b6013e4"
+        },
+        {
+          "member": "cs781_phase3/runs/E0_full/model.pt",
+          "bytes": 385349463,
+          "zip_crc32": "bd8e079d",
+          "sha256": "e1661eb1a0fdbde68dce76838ad3247e65e76085673347be7b4d3dab34abeeb9"
+        }
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "path": "session_source.py",
+      "archive": "phase3_kaggle_output.zip",
+      "member": ".virtual_documents/__notebook_source__.ipynb",
+      "sha256": "d15edf0b34bd440794502597aa7a2659cf72c908dada9ae189b834b3bdcf9214"
+    },
+    {
+      "path": "runs/results.jsonl",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/results.jsonl",
+      "sha256": "a4a61a82bb50f6bd2f8fcee4a5e039ad0ad22fce0ff3047516ceba905b60e830"
+    },
+    {
+      "path": "label_vocab.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/data/Phase_3_RR/Train/label_vocab.json",
+      "sha256": "d4d0175f792a5349ccc028ef3a1d220374169e999550441e84378dcf39e9ae45"
+    },
+    {
+      "path": "runs/E2_lora/prediction.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E2_lora/prediction.json",
+      "sha256": "c3b3b84c90dc720b5a836965bb8d4be0440cab8ff8db10f28adc894c435f23f8"
+    },
+    {
+      "path": "runs/E2_lora/done.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E2_lora/done.json",
+      "sha256": "07c7aa73aa814238f5290b6c9ba49fa5ef8d1d26700d7144b0a6d94512ac9fe0"
+    },
+    {
+      "path": "runs/E2_lora/dev_predictions.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E2_lora/dev_predictions.json",
+      "sha256": "6c61fe17ac7437163ef5701654270613444ffb47c6109d652e7f26a514dc7068"
+    },
+    {
+      "path": "runs/E4_ia3/prediction.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E4_ia3/prediction.json",
+      "sha256": "8f52fe62669cce18b39a191050dc7f4b44c96956bb1f8bcd5509b498180ee2c6"
+    },
+    {
+      "path": "runs/E4_ia3/done.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E4_ia3/done.json",
+      "sha256": "d475d8c76029d75b38446160f39947b616cc63635b1da517a03dc58459e024cc"
+    },
+    {
+      "path": "runs/E4_ia3/dev_predictions.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E4_ia3/dev_predictions.json",
+      "sha256": "50c64d7309b0e0f382d6593bf86f3d3fe0b025dc9d035513850f942d29dfa272"
+    },
+    {
+      "path": "runs/E6_kd/prediction.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E6_kd/prediction.json",
+      "sha256": "c80b7f3895418e5c023593f3058b711bf91aa0bbce493966ea21a7b83354b06c"
+    },
+    {
+      "path": "runs/E6_kd/done.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E6_kd/done.json",
+      "sha256": "4beb396a05971c6c5824729c866ca0f004df64673f1b953abe4d1f70db873ba5"
+    },
+    {
+      "path": "runs/E6_kd/dev_predictions.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E6_kd/dev_predictions.json",
+      "sha256": "ab668b1f1d1bf9403f0a59a95c4ae43bbb0c04527864e4c3b10365a42a12173a"
+    },
+    {
+      "path": "runs/E1_lorma/prediction.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E1_lorma/prediction.json",
+      "sha256": "56f42b5a52a991377aebb9328a32d35b90c24713a79f5f7f9ed710f4c3d66ab4"
+    },
+    {
+      "path": "runs/E1_lorma/done.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E1_lorma/done.json",
+      "sha256": "68f9c0e0f116e9028ab191d1baacd49856ebcb147039dcb45917f15766e22c0a"
+    },
+    {
+      "path": "runs/E1_lorma/dev_predictions.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E1_lorma/dev_predictions.json",
+      "sha256": "8778124c8892da7f85be0d085192aeae4bcd7b55dd9e6aff9440df8e85cb7291"
+    },
+    {
+      "path": "runs/E3_rslora/prediction.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E3_rslora/prediction.json",
+      "sha256": "31bbfb902890b0db2f595b6fa56b367728b7113e4c70aa346a41d8aa849d11af"
+    },
+    {
+      "path": "runs/E3_rslora/done.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E3_rslora/done.json",
+      "sha256": "fc409e9d14ec602ba982bbbffe9caf58e4234ce5c100c7cf83826f55d9862fb6"
+    },
+    {
+      "path": "runs/E3_rslora/dev_predictions.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E3_rslora/dev_predictions.json",
+      "sha256": "7e47bd0e3cba1a35c69c038372db41dc744105ed0c154e26b2ccbab2647a4001"
+    },
+    {
+      "path": "runs/E5_prompt/prediction.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E5_prompt/prediction.json",
+      "sha256": "68d97fcf6940715fa84c66f8eb68e3d66416bea846d8461fa848290894a52839"
+    },
+    {
+      "path": "runs/E5_prompt/done.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E5_prompt/done.json",
+      "sha256": "84198d2a23d775c948665d9221cef3da4a7c77491f5d524966a99e30929b4202"
+    },
+    {
+      "path": "runs/E5_prompt/dev_predictions.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E5_prompt/dev_predictions.json",
+      "sha256": "7e6d3b9796e3815e1e8ca40acf6778e52b107cb73819a5b0509c07e327c682a2"
+    },
+    {
+      "path": "runs/E0_full/prediction.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E0_full/prediction.json",
+      "sha256": "11e91b7ffb88f8dc862b60d3926d9145cda33c9b2adca7fd7f8212f32e7e792d"
+    },
+    {
+      "path": "runs/E0_full/done.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E0_full/done.json",
+      "sha256": "b5dcf82be8c4a07b33f71a217af04db284226715e1025366511137205a84dddb"
+    },
+    {
+      "path": "runs/E0_full/dev_predictions.json",
+      "archive": "phase3_kaggle_output.zip",
+      "member": "cs781_phase3/runs/E0_full/dev_predictions.json",
+      "sha256": "cce5692cd3d2c632d1d0845deb5516746e45a970878e35097ac1869017164727"
+    }
+  ],
+  "submissions": [
+    {
+      "id": 993600,
+      "filename_shown": "e4_ia3.zip",
+      "status": "Finished",
+      "score_shown": 0.4185,
+      "local_export": "e4_ia3.zip",
+      "prediction_sha256": "8f52fe62669cce18b39a191050dc7f4b44c96956bb1f8bcd5509b498180ee2c6",
+      "matching_prediction_paths": [
+        "runs/E4_ia3/prediction.json"
+      ]
+    },
+    {
+      "id": 993467,
+      "filename_shown": "kd.zip",
+      "status": "Finished",
+      "score_shown": 0.4505,
+      "local_export": "kd.zip",
+      "prediction_sha256": "c80b7f3895418e5c023593f3058b711bf91aa0bbce493966ea21a7b83354b06c",
+      "matching_prediction_paths": [
+        "runs/E6_kd/prediction.json"
+      ]
+    },
+    {
+      "id": 993275,
+      "filename_shown": "prompt.zip",
+      "status": "Finished",
+      "score_shown": 0.4199,
+      "local_export": "prompt.zip",
+      "prediction_sha256": "68d97fcf6940715fa84c66f8eb68e3d66416bea846d8461fa848290894a52839",
+      "matching_prediction_paths": [
+        "runs/E5_prompt/prediction.json"
+      ]
+    },
+    {
+      "id": 993274,
+      "filename_shown": "e4_ia3.zip",
+      "status": "Cancelled",
+      "score_shown": null,
+      "note": "A finished retry has the same filename. The content of this attempt is unverified."
+    },
+    {
+      "id": 993272,
+      "filename_shown": "e3rslora.zip",
+      "status": "Finished",
+      "score_shown": 0.4442,
+      "local_export": "e3rslora.zip",
+      "prediction_sha256": "31bbfb902890b0db2f595b6fa56b367728b7113e4c70aa346a41d8aa849d11af",
+      "matching_prediction_paths": [
+        "runs/E3_rslora/prediction.json"
+      ]
+    },
+    {
+      "id": 993270,
+      "filename_shown": "e2lora.zip",
+      "status": "Finished",
+      "score_shown": 0.4792,
+      "local_export": "e2lora.zip",
+      "prediction_sha256": "c3b3b84c90dc720b5a836965bb8d4be0440cab8ff8db10f28adc894c435f23f8",
+      "matching_prediction_paths": [
+        "runs/E2_lora/prediction.json"
+      ]
+    },
+    {
+      "id": 992773,
+      "filename_shown": "e1lormap3.zip",
+      "status": "Finished",
+      "score_shown": 0.4171,
+      "local_export": "e1lormap3.zip",
+      "prediction_sha256": "56f42b5a52a991377aebb9328a32d35b90c24713a79f5f7f9ed710f4c3d66ab4",
+      "matching_prediction_paths": [
+        "runs/E1_lorma/prediction.json"
+      ]
+    },
+    {
+      "id": 992611,
+      "filename_shown": "submission.zip",
+      "status": "Finished",
+      "score_shown": 0.4306,
+      "local_export": "submission.zip",
+      "prediction_sha256": "11e91b7ffb88f8dc862b60d3926d9145cda33c9b2adca7fd7f8212f32e7e792d",
+      "matching_prediction_paths": [
+        "runs/E0_full/prediction.json"
+      ]
+    }
+  ],
+  "matching_basis": "Submission IDs, displayed filenames, status and scores were transcribed from Codabench screenshots. Local exports are associated by filename. Run links identify equal parsed prediction JSON; a matching filename alone does not prove what was uploaded."
+}

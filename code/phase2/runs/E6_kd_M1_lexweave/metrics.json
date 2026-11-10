@@ -1,0 +1,246 @@
+{
+  "name": "E6_kd_M1_lexweave",
+  "model": "M1_lexweave",
+  "method": "kd",
+  "head": "crf",
+  "echo": false,
+  "total_params_M": 53.928124,
+  "trainable_params_M": 53.928124,
+  "trainable_pct": 100.0,
+  "dev_macro_F1": 0.44735068089598573,
+  "dev_macro_P": 0.5322001877604401,
+  "dev_macro_R": 0.41636083863847206,
+  "dev_micro_F1": 0.5851063829787234,
+  "dev_infer_s_per_doc": 0.46105360984802246,
+  "train_time_s": 1334.2787039279938,
+  "peak_mem_GB": 3.687232,
+  "test_infer_s": 19.128949880599976,
+  "per_label_F1": {
+    "APP": 0.2261,
+    "RESP": 0.2895,
+    "A.COUNSEL": 0.4545,
+    "R.COUNSEL": 0.5455,
+    "JUDGE": 0.4359,
+    "WIT": 0.0,
+    "AUTH": 0.2133,
+    "COURT": 0.9306,
+    "STAT": 0.5192,
+    "PREC": 0.288,
+    "DATE": 0.9163,
+    "CASENO": 0.5493
+  },
+  "errors": {
+    "correct": 550,
+    "label_error": 65,
+    "boundary_error": 109,
+    "spurious": 64,
+    "boundary+label": 30,
+    "missed": 300
+  },
+  "confusions": [
+    [
+      [
+        "A.COUNSEL",
+        "R.COUNSEL"
+      ],
+      22
+    ],
+    [
+      [
+        "RESP",
+        "APP"
+      ],
+      10
+    ],
+    [
+      [
+        "PREC",
+        "APP"
+      ],
+      8
+    ],
+    [
+      [
+        "RESP",
+        "PREC"
+      ],
+      7
+    ],
+    [
+      [
+        "R.COUNSEL",
+        "A.COUNSEL"
+      ],
+      3
+    ],
+    [
+      [
+        "AUTH",
+        "COURT"
+      ],
+      2
+    ],
+    [
+      [
+        "APP",
+        "RESP"
+      ],
+      2
+    ],
+    [
+      [
+        "APP",
+        "WIT"
+      ],
+      2
+    ],
+    [
+      [
+        "R.COUNSEL",
+        "PREC"
+      ],
+      2
+    ],
+    [
+      [
+        "RESP",
+        "A.COUNSEL"
+      ],
+      1
+    ],
+    [
+      [
+        "JUDGE",
+        "R.COUNSEL"
+      ],
+      1
+    ],
+    [
+      [
+        "PREC",
+        "COURT"
+      ],
+      1
+    ],
+    [
+      [
+        "A.COUNSEL",
+        "APP"
+      ],
+      1
+    ],
+    [
+      [
+        "DATE",
+        "CASENO"
+      ],
+      1
+    ],
+    [
+      [
+        "JUDGE",
+        "APP"
+      ],
+      1
+    ]
+  ],
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 0.6659550467276409,
+      "dev_macro_F1": 0.40397563555410354,
+      "dev_micro_F1": 0.552094522019334
+    },
+    {
+      "epoch": 2,
+      "loss": 0.0702385409186556,
+      "dev_macro_F1": 0.44137221784605646,
+      "dev_micro_F1": 0.5616580310880829
+    },
+    {
+      "epoch": 3,
+      "loss": 0.046369815041145235,
+      "dev_macro_F1": 0.41517119773440747,
+      "dev_micro_F1": 0.56078860898138
+    },
+    {
+      "epoch": 4,
+      "loss": 0.037261827096138914,
+      "dev_macro_F1": 0.43071280333105544,
+      "dev_micro_F1": 0.5698689956331878
+    },
+    {
+      "epoch": 5,
+      "loss": 0.031747542653385905,
+      "dev_macro_F1": 0.44735068089598573,
+      "dev_micro_F1": 0.5851063829787234
+    },
+    {
+      "epoch": 6,
+      "loss": 0.028248956324915364,
+      "dev_macro_F1": 0.44354500960505705,
+      "dev_micro_F1": 0.5846319183234819
+    },
+    {
+      "epoch": 7,
+      "loss": 0.025799149660112923,
+      "dev_macro_F1": 0.4390799287550838,
+      "dev_micro_F1": 0.5792880258899675
+    },
+    {
+      "epoch": 8,
+      "loss": 0.024049564647450023,
+      "dev_macro_F1": 0.44387252140017236,
+      "dev_micro_F1": 0.582534611288605
+    }
+  ],
+  "cfg": {
+    "name": "E6_kd_M1_lexweave",
+    "model": "M1_lexweave",
+    "method": "kd",
+    "head": "crf",
+    "window": 512,
+    "stride": 384,
+    "echo": false,
+    "add_bos": false,
+    "epochs": 12,
+    "batch_size": 8,
+    "grad_accum": 1,
+    "lr": 5e-05,
+    "head_lr": 0.001,
+    "weight_decay": 0.01,
+    "warmup": 0.06,
+    "dropout": 0.1,
+    "patience": 3,
+    "class_weighting": "none",
+    "o_weight": 1.0,
+    "span_max_len": 0,
+    "span_none_weight": 1.0,
+    "r": 16,
+    "alpha": 32,
+    "peft_dropout": 0.05,
+    "peft_targets": [],
+    "lorma_variant": "plus",
+    "adapter_dim": 64,
+    "adapter_targets": [
+      "c_proj",
+      "o_proj",
+      "out_proj",
+      "fc2",
+      "down_proj",
+      "wo",
+      "w2",
+      "dense_4h_to_h",
+      "output.dense"
+    ],
+    "partial_k": 4,
+    "kd_teacher": "E1_full_M1_lexweave",
+    "kd_student_model": "",
+    "kd_keep": "alternate",
+    "kd_alpha": 0.5,
+    "kd_T": 2.0,
+    "kd_hidden_weight": 0.0,
+    "seed": 42,
+    "note": ""
+  }
+}

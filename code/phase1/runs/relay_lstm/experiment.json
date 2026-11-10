@@ -1,0 +1,39 @@
+{
+  "model": {
+    "arch": "relay_lstm",
+    "vocab": 16384,
+    "context": 1024,
+    "dim": 768,
+    "heads": 12,
+    "layers": 22,
+    "ff_dim": 2048,
+    "anchor_rank": 64,
+    "anchor_every": 4,
+    "recurrent_dim": 512,
+    "attention_every": 3,
+    "ablation": "full",
+    "grad_checkpoint": true
+  },
+  "arch": "relay_lstm",
+  "seed": 42,
+  "start_mode": "scratch",
+  "initial_checkpoint_sha": null,
+  "tokenizer_sha": "3242bd497d3d5646bee12f8cd86ec289aaafed393a4cff632bd40a3cbd0c73ec",
+  "data_sha": "d0db6adac1f12c8dd80ee99a794373a16eee8892d6a8fe77a4f037256f3b1ba2",
+  "packed_report_sha": "069ce8a87f2bd19410ac4a506f67bc8bc150823d7979dad6bb0d6d1310373ada",
+  "target_tokens": 10331970,
+  "micro": 2,
+  "accum": 8,
+  "lr": 0.0003,
+  "min_lr": 3e-05,
+  "warmup_tokens": 206639,
+  "weights": {
+    "train_acts": 0.1,
+    "train_high_courts": 0.4,
+    "train_supreme_court": 0.25,
+    "train_tribunals": 0.25
+  },
+  "source_context": 768,
+  "target_context": 256,
+  "eval_batches": 12
+}

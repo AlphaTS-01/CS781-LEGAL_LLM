@@ -1,0 +1,11 @@
+{
+  "rouge1": 0.24521491327642328,
+  "rougeL": 0.1522357129444028,
+  "validation_seconds": 413.36832373700054,
+  "method": "houlsby",
+  "teacher": null,
+  "train_seconds": 3148.4664768599996,
+  "steps": 1250,
+  "total_parameters": 97648896,
+  "trainable_parameters": 2416128
+}

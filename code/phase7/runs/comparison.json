@@ -1,0 +1,18 @@
+[
+  {
+    "micro_f1_at7": 0.11673151750972763,
+    "micro_precision_at7": 0.1271186440677966,
+    "micro_recall_at7": 0.1079136690647482,
+    "true_positives": 105,
+    "gold_relevant": 973,
+    "queries": 118,
+    "method": "lorma",
+    "teacher": null,
+    "train_seconds": 2704.817214766,
+    "steps": 216,
+    "dev_seconds_this_invocation": 163.4159964139999,
+    "peak_cuda_bytes_this_invocation": 2390940672,
+    "total_parameters": 96954432,
+    "trainable_parameters": 1721664
+  }
+]

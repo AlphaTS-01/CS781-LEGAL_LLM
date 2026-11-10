@@ -1,0 +1,17 @@
+{
+  "train": {
+    "documents": 5000,
+    "mean_source_coverage": 0.16550979390360393,
+    "truncated_targets": 4912
+  },
+  "validation": {
+    "documents": 32,
+    "mean_source_coverage": 0.16910217533626698,
+    "truncated_targets": 32
+  },
+  "test": {
+    "documents": 100,
+    "mean_source_coverage": 0.1572745638811364,
+    "truncated_targets": 0
+  }
+}

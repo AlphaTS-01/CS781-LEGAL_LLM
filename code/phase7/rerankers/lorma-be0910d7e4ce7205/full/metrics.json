@@ -1,0 +1,15 @@
+{
+  "prime": "lorma",
+  "reranker": "full",
+  "training_queries": 64,
+  "trainable_parameters": 95232768,
+  "prime_dev_f1": 0.11673151750972763,
+  "dev_changed_queries": 2,
+  "micro_f1_at7": 0.11673151750972763,
+  "micro_precision_at7": 0.1271186440677966,
+  "micro_recall_at7": 0.1079136690647482,
+  "true_positives": 105,
+  "gold_relevant": 973,
+  "queries": 118,
+  "test_changed_queries": 6
+}

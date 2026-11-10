@@ -1,0 +1,228 @@
+{
+  "name": "E3_lora_M1_lexweave",
+  "model": "M1_lexweave",
+  "method": "lora",
+  "head": "crf",
+  "echo": false,
+  "total_params_M": 98.76838,
+  "trainable_params_M": 3.535612,
+  "trainable_pct": 3.5797003048951495,
+  "dev_macro_F1": 0.44958957081065803,
+  "dev_macro_P": 0.48631495050810253,
+  "dev_macro_R": 0.43944122391390045,
+  "dev_micro_F1": 0.5604606525911707,
+  "dev_infer_s_per_doc": 0.9826764379228864,
+  "train_time_s": 973.4602515697479,
+  "peak_mem_GB": 5.17003008,
+  "test_infer_s": 40.639522075653076,
+  "per_label_F1": {
+    "APP": 0.2158,
+    "RESP": 0.1944,
+    "A.COUNSEL": 0.4301,
+    "R.COUNSEL": 0.3279,
+    "JUDGE": 0.5349,
+    "WIT": 0.0,
+    "AUTH": 0.4048,
+    "COURT": 0.9265,
+    "STAT": 0.6639,
+    "PREC": 0.3712,
+    "DATE": 0.9036,
+    "CASENO": 0.422
+  },
+  "errors": {
+    "label_error": 105,
+    "boundary_error": 129,
+    "correct": 584,
+    "spurious": 149,
+    "boundary+label": 55,
+    "missed": 163
+  },
+  "confusions": [
+    [
+      [
+        "R.COUNSEL",
+        "A.COUNSEL"
+      ],
+      18
+    ],
+    [
+      [
+        "A.COUNSEL",
+        "R.COUNSEL"
+      ],
+      17
+    ],
+    [
+      [
+        "RESP",
+        "APP"
+      ],
+      14
+    ],
+    [
+      [
+        "PREC",
+        "APP"
+      ],
+      14
+    ],
+    [
+      [
+        "RESP",
+        "WIT"
+      ],
+      6
+    ],
+    [
+      [
+        "RESP",
+        "PREC"
+      ],
+      5
+    ],
+    [
+      [
+        "COURT",
+        "RESP"
+      ],
+      4
+    ],
+    [
+      [
+        "APP",
+        "RESP"
+      ],
+      4
+    ],
+    [
+      [
+        "A.COUNSEL",
+        "APP"
+      ],
+      4
+    ],
+    [
+      [
+        "RESP",
+        "A.COUNSEL"
+      ],
+      3
+    ],
+    [
+      [
+        "STAT",
+        "CASENO"
+      ],
+      3
+    ],
+    [
+      [
+        "APP",
+        "WIT"
+      ],
+      3
+    ],
+    [
+      [
+        "JUDGE",
+        "APP"
+      ],
+      2
+    ],
+    [
+      [
+        "APP",
+        "JUDGE"
+      ],
+      1
+    ],
+    [
+      [
+        "AUTH",
+        "STAT"
+      ],
+      1
+    ]
+  ],
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 0.4998600829443703,
+      "dev_macro_F1": 0.3493691162699491,
+      "dev_micro_F1": 0.525164113785558
+    },
+    {
+      "epoch": 2,
+      "loss": 0.025359006831422448,
+      "dev_macro_F1": 0.44958957081065803,
+      "dev_micro_F1": 0.5604606525911707
+    },
+    {
+      "epoch": 3,
+      "loss": 0.013716370543490534,
+      "dev_macro_F1": 0.3877499222940997,
+      "dev_micro_F1": 0.5584699453551913
+    },
+    {
+      "epoch": 4,
+      "loss": 0.007302359333389426,
+      "dev_macro_F1": 0.4006433963350096,
+      "dev_micro_F1": 0.5641569459172853
+    },
+    {
+      "epoch": 5,
+      "loss": 0.003581405902753444,
+      "dev_macro_F1": 0.41855259555071295,
+      "dev_micro_F1": 0.6045314109165808
+    }
+  ],
+  "cfg": {
+    "name": "E3_lora_M1_lexweave",
+    "model": "M1_lexweave",
+    "method": "lora",
+    "head": "crf",
+    "window": 512,
+    "stride": 384,
+    "echo": false,
+    "add_bos": false,
+    "epochs": 12,
+    "batch_size": 8,
+    "grad_accum": 1,
+    "lr": 0.0005,
+    "head_lr": 0.001,
+    "weight_decay": 0.01,
+    "warmup": 0.06,
+    "dropout": 0.1,
+    "patience": 3,
+    "class_weighting": "none",
+    "o_weight": 1.0,
+    "span_max_len": 0,
+    "span_none_weight": 1.0,
+    "r": 16,
+    "alpha": 32,
+    "peft_dropout": 0.05,
+    "peft_targets": [],
+    "lorma_variant": "plus",
+    "adapter_dim": 64,
+    "adapter_targets": [
+      "c_proj",
+      "o_proj",
+      "out_proj",
+      "fc2",
+      "down_proj",
+      "wo",
+      "w2",
+      "dense_4h_to_h",
+      "output.dense"
+    ],
+    "partial_k": 4,
+    "kd_teacher": "",
+    "kd_student_model": "",
+    "kd_keep": "alternate",
+    "kd_alpha": 0.5,
+    "kd_T": 2.0,
+    "kd_hidden_weight": 0.0,
+    "seed": 42,
+    "note": ""
+  }
+}

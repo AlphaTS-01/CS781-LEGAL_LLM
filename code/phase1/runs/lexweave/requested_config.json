@@ -1,0 +1,36 @@
+{
+  "model": {
+    "arch": "lexweave",
+    "vocab": 16384,
+    "context": 1024,
+    "dim": 768,
+    "heads": 12,
+    "kv_heads": 4,
+    "layers": 12,
+    "ff_dim": 2048,
+    "mem_dim": 128,
+    "mem_heads": 4,
+    "conv_dim": 128,
+    "chunk": 32,
+    "dilations": [
+      1,
+      4,
+      16
+    ],
+    "ablation": "full",
+    "grad_checkpoint": false
+  },
+  "training": {
+    "seed": 42,
+    "steps": 12000,
+    "lr": 0.0003,
+    "min_lr": 3e-05,
+    "warmup": 300,
+    "block": 1024,
+    "micro_batch": 4,
+    "accumulation": 4,
+    "tokenizer_sha": "f55b61a8554d92547813de81f1d859257b3f1d79f8756fec2cca2c751ae9b201",
+    "packed_sha": "ca8bbf8345bc20046bb678e78729cdf2e90ff66a8c51de424f99af7f6e69a54d",
+    "eval_batches": 20
+  }
+}

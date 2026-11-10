@@ -1,0 +1,375 @@
+{
+  "phase": 7,
+  "archives": [
+    {
+      "filename": "phase7.zip",
+      "checkpoints": [
+        {
+          "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/full/trained_parameters.pt",
+          "bytes": 381001611,
+          "zip_crc32": "547b0b4a",
+          "sha256": "2d8062292e2c85de8ae9b8b5f496032b4e382ff086e73f7ddbfb5d732e1c67ef"
+        },
+        {
+          "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/kd/trained_parameters.pt",
+          "bytes": 215668667,
+          "zip_crc32": "907f4118",
+          "sha256": "dc938299b348b780fd71b4050404f5a88f21ad90efbe555a4dca4143b142aafa"
+        },
+        {
+          "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/ia3/trained_parameters.pt",
+          "bytes": 147011,
+          "zip_crc32": "e680eda8",
+          "sha256": "f31fc1f969d96a2e38b9f62a9fba2ebaa1c98782f603b701c7db3251c6c817f5"
+        },
+        {
+          "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/partial/trained_parameters.pt",
+          "bytes": 55114958,
+          "zip_crc32": "63652e6d",
+          "sha256": "c35fe46674452af6d5666f841dfdec49077d87453894685a20ca7012bbec9e18"
+        },
+        {
+          "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/prompt/trained_parameters.pt",
+          "bytes": 50891,
+          "zip_crc32": "ee91db24",
+          "sha256": "6400ecceae7ecd1b36f088af48aaa49d472d1848eb1d87d8c60bd23835d77e7d"
+        },
+        {
+          "member": "phase7_pcr/runs/lorma/test_index.pt",
+          "bytes": 5341011,
+          "zip_crc32": "951d1208",
+          "sha256": "04a05009d3fb9eb5b5088131d9701f6c6a5b09e22ada276e9b859211ea496414"
+        },
+        {
+          "member": "phase7_pcr/runs/lorma/last.pt",
+          "bytes": 402047886,
+          "zip_crc32": "18c844ae",
+          "sha256": "fe34e98d61130410935f23278c88d5132a677cfff558ae15e7b77e79f31c95d4"
+        },
+        {
+          "member": "phase7_pcr/runs/lorma/dev_index.pt",
+          "bytes": 3164236,
+          "zip_crc32": "9fc6ac65",
+          "sha256": "bc2a77485c6676d1887f524e0fb67972e7af87127809577ecbe95d20c6f3805f"
+        },
+        {
+          "member": "phase7_pcr/runs/full/last.pt",
+          "bytes": 1143071249,
+          "zip_crc32": "4208b563",
+          "sha256": "e2039dd787bbf5f1f6e2fbc6168deb8c1dc16bfb6402510da450101dea842c0d"
+        }
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "path": "session_source.py",
+      "archive": "phase7.zip",
+      "member": ".virtual_documents/__notebook_source__.ipynb",
+      "sha256": "f4b23e511e34acdc8840844775d7d5b06b0eaaf8854126027c7c5698d94a3b86"
+    },
+    {
+      "path": "runs/download.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/download.json",
+      "sha256": "f57ff7cdf4df3b2e9f92c90c5ecafda47563a55b869b4a1707a0f17d9482fd8b"
+    },
+    {
+      "path": "runs/query_ids.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/query_ids.json",
+      "sha256": "841bee03452d36bd4d8425c84eeffb4ecce03869bb5bc2e81deac2aba323fcb1"
+    },
+    {
+      "path": "runs/completion.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/completion.json",
+      "sha256": "695e627a3b71f620aebda08699a09dc8fe6c671dde88cd50489f884afd16ffc0"
+    },
+    {
+      "path": "runs/inputs.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/inputs.json",
+      "sha256": "663e17fc5033d42aa2b7d56632439982e30328ac1259552c125fd8108b2ff8b2"
+    },
+    {
+      "path": "runs/coverage.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/coverage.json",
+      "sha256": "1ff821049e09df08fe0f9b8d207d9be96b129e0e8561f548c5c1e0ca31100427"
+    },
+    {
+      "path": "runs/comparison.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/comparison.json",
+      "sha256": "4f076c831f973086d18d58c26362b1ea918f71ae009d4ee55c22cbe6527770b9"
+    },
+    {
+      "path": "final_predictions/ia3_hybrid/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/final_six_hybrid/ia3_hybrid.zip!prediction.json",
+      "sha256": "11d6b7e4532e4c829db8ab5a745a5d2c49ff23661d927e26c177d721b41e71a1"
+    },
+    {
+      "path": "final_predictions/kd_hybrid/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/final_six_hybrid/kd_hybrid.zip!prediction.json",
+      "sha256": "61b34199e3ebd546762f9944541ed7d23d35fc65d34a473250e52d938939f04a"
+    },
+    {
+      "path": "final_predictions/prompt_hybrid/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/final_six_hybrid/prompt_hybrid.zip!prediction.json",
+      "sha256": "c60e94885e1708455c003e7089a253663f5e283d799a3e2ee6c711810d95ae8d"
+    },
+    {
+      "path": "final_six_hybrid/comparison.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/final_six_hybrid/comparison.json",
+      "sha256": "289d2678d8cb336ad371d48fb189b3e06e7291dcdff01f2bca3c782430d1c024"
+    },
+    {
+      "path": "final_predictions/partial_hybrid/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/final_six_hybrid/partial_hybrid.zip!prediction.json",
+      "sha256": "832a60abb258fe7850c43f2778590d088ed3d4c32087ebe84b0432029126ce13"
+    },
+    {
+      "path": "final_predictions/full_hybrid/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/final_six_hybrid/full_hybrid.zip!prediction.json",
+      "sha256": "247db0ed4ea1b2eb637ef643f72d9b4d1a09f440365c19b675d43b03f3b66fb0"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/training_queries.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/training_queries.json",
+      "sha256": "fde92b10d40b3692f7edc5a62c5e9188d13c6f1225db88ad6bdbb88c18e2a06e"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/full/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/full/prediction.json",
+      "sha256": "5274d524244c359fd3b0d1c4eeb773f669a99317bddd299381ad38857630a787"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/full/metrics.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/full/metrics.json",
+      "sha256": "07188f05461a63a1ffb63bd66705312fd21a5e7800e3305289fa762d1b73b7e5"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/full/dev_changes.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/full/dev_changes.json",
+      "sha256": "dea398aba643e85910418d1c9449e99ef436005b4468243894e0103318805586"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/full/test_changes.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/full/test_changes.json",
+      "sha256": "144831de17bca28bffb5958e749232e1e1d3bca6364a56c20bcf471a1666c279"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/kd/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/kd/prediction.json",
+      "sha256": "7107bdfd8d8c99dd47babe6503c00fd88ee29efcdf1ffbdd82f188331b07233f"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/kd/metrics.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/kd/metrics.json",
+      "sha256": "244a43d2ff8c5a465655d3aabc36b278b3fe1b6985fc6e8919b8cdfdfb4e0b40"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/kd/dev_changes.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/kd/dev_changes.json",
+      "sha256": "b00e48a2e1d7f7ae29bb7fd9b2941d8ba0c2f92395a5e6b8199890717272beb3"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/kd/test_changes.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/kd/test_changes.json",
+      "sha256": "5e4067134a8757c6cef1bfeffb28d48f926a93b046c9ce2e16baf33d8ef4b093"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/ia3/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/ia3/prediction.json",
+      "sha256": "f432ba94bdcb207eb2b01fdc86ac1244c8e56a3d89c114abca56f23a21eac59d"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/ia3/metrics.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/ia3/metrics.json",
+      "sha256": "8612c7d67641c90d65eee1bbb0fef308b702a6ac8d44b5d38c93f685e7e4521d"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/ia3/dev_changes.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/ia3/dev_changes.json",
+      "sha256": "a9297ace2d98fad43f1c5f133e296e203df51f0e7cdd1f7a8bc0d15f9c094a13"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/ia3/test_changes.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/ia3/test_changes.json",
+      "sha256": "6f40a0409dea5e61ae7545c3a06d0de1d945c2b21491ca5bfa7105d6ddc38299"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/partial/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/partial/prediction.json",
+      "sha256": "f432ba94bdcb207eb2b01fdc86ac1244c8e56a3d89c114abca56f23a21eac59d"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/partial/metrics.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/partial/metrics.json",
+      "sha256": "d06518933deeb1da0e6ffa2550deaebb87996a945a89d40f9dff49487626073e"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/partial/dev_changes.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/partial/dev_changes.json",
+      "sha256": "a9297ace2d98fad43f1c5f133e296e203df51f0e7cdd1f7a8bc0d15f9c094a13"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/partial/test_changes.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/partial/test_changes.json",
+      "sha256": "6f40a0409dea5e61ae7545c3a06d0de1d945c2b21491ca5bfa7105d6ddc38299"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/prompt/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/prompt/prediction.json",
+      "sha256": "58582ac2838e5b2cc9248c00e26b9ae5ef450c00162c1316f37e62d095509d7f"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/prompt/metrics.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/prompt/metrics.json",
+      "sha256": "56ef9408085fe18488ea5d1aaa671ad413444d4eb1d406514c9784078d2fe354"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/prompt/dev_changes.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/prompt/dev_changes.json",
+      "sha256": "dde81d1701fabec2a25ac96882ec50ebe47e3c19c1df3a67bd778554a909023c"
+    },
+    {
+      "path": "rerankers/lorma-be0910d7e4ce7205/prompt/test_changes.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/rerankers/lorma-be0910d7e4ce7205/prompt/test_changes.json",
+      "sha256": "ab96407afe9e4a6a13ca27cc25beee3c92381d00a8b453fb72c843336a0d2e27"
+    },
+    {
+      "path": "runs/lorma/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/runs/lorma/prediction.json",
+      "sha256": "a41fafeade9d60663e7f77932da48018ffbaad3582ef6c919d4caf384caecfed"
+    },
+    {
+      "path": "final_predictions/fulltext_w2.0_exclude_self_True/prediction.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/runs/lorma/fulltext_w2.0_exclude_self_True.zip!prediction.json",
+      "sha256": "1d0940c3835cf1702c5a510bff631ccaca9cae0fe94f1137d006efb94d17d408"
+    },
+    {
+      "path": "runs/lorma/metrics.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/runs/lorma/metrics.json",
+      "sha256": "46bbceb2bea201363aa6515acc5614575e7a5b99bea0fb3722ff31cd73fd5f7b"
+    },
+    {
+      "path": "runs/lorma/test_rankings.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/runs/lorma/test_rankings.json",
+      "sha256": "3cfe642e5f04108ec956120efec90de0693f6f8384c220b55ae3222fc382ba0e"
+    },
+    {
+      "path": "runs/lorma/inference.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/runs/lorma/inference.json",
+      "sha256": "82c76556f9406459f3b9f168ab8418513044a65a025d509a5683aa2e3379b185"
+    },
+    {
+      "path": "runs/lorma/dev_rankings.json",
+      "archive": "phase7.zip",
+      "member": "phase7_pcr/runs/lorma/dev_rankings.json",
+      "sha256": "77a12409a484a76531e4ee6519ade9b2fabdb49ee8290d542aa66acb020c45ed"
+    }
+  ],
+  "submissions": [
+    {
+      "id": 1040966,
+      "filename_shown": "prompt_hybrid.zip",
+      "status": "Finished",
+      "score_shown": 0.3473,
+      "local_export": "six_individual_submissions.zip!prompt_hybrid.zip",
+      "prediction_sha256": "c60e94885e1708455c003e7089a253663f5e283d799a3e2ee6c711810d95ae8d",
+      "matching_prediction_paths": [
+        "final_predictions/prompt_hybrid/prediction.json"
+      ]
+    },
+    {
+      "id": 1040965,
+      "filename_shown": "lorma_confirmed.zip",
+      "status": "Finished",
+      "score_shown": 0.3538,
+      "local_export": "six_individual_submissions.zip!lorma_confirmed.zip",
+      "prediction_sha256": "1d0940c3835cf1702c5a510bff631ccaca9cae0fe94f1137d006efb94d17d408",
+      "matching_prediction_paths": [
+        "final_predictions/fulltext_w2.0_exclude_self_True/prediction.json"
+      ]
+    },
+    {
+      "id": 1040964,
+      "filename_shown": "kd_hybrid.zip",
+      "status": "Finished",
+      "score_shown": 0.3467,
+      "local_export": "six_individual_submissions.zip!kd_hybrid.zip",
+      "prediction_sha256": "61b34199e3ebd546762f9944541ed7d23d35fc65d34a473250e52d938939f04a",
+      "matching_prediction_paths": [
+        "final_predictions/kd_hybrid/prediction.json"
+      ]
+    },
+    {
+      "id": 1040963,
+      "filename_shown": "partial_hybrid.zip",
+      "status": "Finished",
+      "score_shown": 0.3473,
+      "local_export": "six_individual_submissions.zip!partial_hybrid.zip",
+      "prediction_sha256": "832a60abb258fe7850c43f2778590d088ed3d4c32087ebe84b0432029126ce13",
+      "matching_prediction_paths": [
+        "final_predictions/partial_hybrid/prediction.json"
+      ]
+    },
+    {
+      "id": 1040962,
+      "filename_shown": "ia3_hybrid.zip",
+      "status": "Finished",
+      "score_shown": 0.3467,
+      "local_export": "six_individual_submissions.zip!ia3_hybrid.zip",
+      "prediction_sha256": "11d6b7e4532e4c829db8ab5a745a5d2c49ff23661d927e26c177d721b41e71a1",
+      "matching_prediction_paths": [
+        "final_predictions/ia3_hybrid/prediction.json"
+      ]
+    },
+    {
+      "id": 1040961,
+      "filename_shown": "full_hybrid.zip",
+      "status": "Finished",
+      "score_shown": 0.3455,
+      "local_export": "six_individual_submissions.zip!full_hybrid.zip",
+      "prediction_sha256": "247db0ed4ea1b2eb637ef643f72d9b4d1a09f440365c19b675d43b03f3b66fb0",
+      "matching_prediction_paths": [
+        "final_predictions/full_hybrid/prediction.json"
+      ]
+    }
+  ],
+  "matching_basis": "Submission IDs, displayed filenames, status and scores were transcribed from Codabench screenshots. Local exports are associated by filename. Run links identify equal parsed prediction JSON; a matching filename alone does not prove what was uploaded."
+}

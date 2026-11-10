@@ -1,0 +1,68 @@
+[
+  {
+    "rouge1": 0.2707494787495372,
+    "rougeL": 0.1636524409137355,
+    "validation_seconds": 578.5553455090003,
+    "method": "lora",
+    "teacher": null,
+    "train_seconds": 3600.0261915289993,
+    "steps": 1127,
+    "total_parameters": 96990624,
+    "trainable_parameters": 1757856
+  },
+  {
+    "rouge1": 0.2764998573874667,
+    "rougeL": 0.16854985690055022,
+    "validation_seconds": 575.6538795680008,
+    "method": "lorma",
+    "teacher": null,
+    "train_seconds": 3602.6950597629993,
+    "steps": 1139,
+    "total_parameters": 96954432,
+    "trainable_parameters": 1721664
+  },
+  {
+    "rouge1": 0.24521491327642328,
+    "rougeL": 0.1522357129444028,
+    "validation_seconds": 413.36832373700054,
+    "method": "houlsby",
+    "teacher": null,
+    "train_seconds": 3148.4664768599996,
+    "steps": 1250,
+    "total_parameters": 97648896,
+    "trainable_parameters": 2416128
+  },
+  {
+    "rouge1": 0.24442661270325308,
+    "rougeL": 0.15261430348964794,
+    "validation_seconds": 405.66279713400036,
+    "method": "pfeiffer",
+    "teacher": null,
+    "train_seconds": 2997.1377732949986,
+    "steps": 1250,
+    "total_parameters": 96440832,
+    "trainable_parameters": 1208064
+  },
+  {
+    "rouge1": 0.24058537556470658,
+    "rougeL": 0.1487206266738498,
+    "validation_seconds": 467.8090194280012,
+    "method": "prompt",
+    "teacher": null,
+    "train_seconds": 2957.4500084590018,
+    "steps": 1250,
+    "total_parameters": 95245056,
+    "trainable_parameters": 12288
+  },
+  {
+    "rouge1": 0.26628200153674353,
+    "rougeL": 0.16465892262389123,
+    "validation_seconds": 229.45875413999966,
+    "method": "kd",
+    "teacher": "lorma",
+    "train_seconds": 3074.787275273,
+    "steps": 1250,
+    "total_parameters": 53908224,
+    "trainable_parameters": 53908224
+  }
+]

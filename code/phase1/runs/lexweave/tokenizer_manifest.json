@@ -1,0 +1,12 @@
+{
+  "raw_sha": "dc993e25c3c5fe1e69e2a1d4813f79e63061516ed441a8905bfda1785a894dcc",
+  "vocab": 16384,
+  "chars": 30000000,
+  "method": "byte-level-bpe-v1",
+  "special": [
+    "<pad>",
+    "<bos>",
+    "<eos>",
+    "<unk>"
+  ]
+}

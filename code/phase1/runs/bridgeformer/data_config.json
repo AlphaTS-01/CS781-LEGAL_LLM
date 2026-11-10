@@ -1,0 +1,50 @@
+{
+  "version": 5,
+  "scan_char_limits": {
+    "train_acts": 100000000,
+    "train_high_courts": 400000000,
+    "train_supreme_court": 250000000,
+    "train_tribunals": 250000000
+  },
+  "files": [
+    {
+      "name": "train_acts.json",
+      "bytes": 728801891,
+      "repo": "Exploration-Lab/CS-781-Capstone",
+      "path": "Phase_1_Pretraining/Train/train_acts.json",
+      "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e"
+    },
+    {
+      "name": "train_high_courts.json",
+      "bytes": 10672497795,
+      "repo": "Exploration-Lab/CS-781-Capstone",
+      "path": "Phase_1_Pretraining/Train/train_high_courts.json",
+      "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e"
+    },
+    {
+      "name": "train_supreme_court.json",
+      "bytes": 1322567168,
+      "repo": "Exploration-Lab/CS-781-Capstone",
+      "path": "Phase_1_Pretraining/Train/train_supreme_court.json",
+      "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e"
+    },
+    {
+      "name": "train_tribunals.json",
+      "bytes": 6483962193,
+      "repo": "Exploration-Lab/CS-781-Capstone",
+      "path": "Phase_1_Pretraining/Train/train_tribunals.json",
+      "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e"
+    }
+  ],
+  "budgets": {
+    "train_acts": 1000000000000000,
+    "train_high_courts": 1000000000000000,
+    "train_supreme_court": 1000000000000000,
+    "train_tribunals": 1000000000000000
+  },
+  "seed": 42,
+  "val_fraction": 0.01,
+  "exclude_old_train": false,
+  "old": {},
+  "reconstruction_sha": null
+}

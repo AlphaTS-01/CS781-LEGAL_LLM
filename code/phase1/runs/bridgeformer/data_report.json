@@ -1,0 +1,58 @@
+{
+  "train_acts": {
+    "index": 2609,
+    "done": true,
+    "counts": {
+      "records": 2609,
+      "chars_scanned": 100003518,
+      "train_docs": 2592,
+      "train_chars": 99529604,
+      "val_docs": 16,
+      "val_chars": 435625,
+      "duplicates": 1,
+      "duplicate_chars": 38289
+    }
+  },
+  "train_high_courts": {
+    "index": 159896,
+    "done": true,
+    "counts": {
+      "records": 159896,
+      "chars_scanned": 400000617,
+      "train_docs": 158272,
+      "train_chars": 395928350,
+      "val_docs": 1623,
+      "val_chars": 4067018,
+      "duplicates": 1,
+      "duplicate_chars": 5249
+    }
+  },
+  "train_supreme_court": {
+    "index": 10798,
+    "done": true,
+    "counts": {
+      "records": 10798,
+      "chars_scanned": 250057074,
+      "train_docs": 10671,
+      "train_chars": 247355031,
+      "val_docs": 100,
+      "val_chars": 2170405,
+      "duplicates": 26,
+      "duplicate_chars": 531638,
+      "empty": 1
+    }
+  },
+  "train_tribunals": {
+    "index": 17607,
+    "done": true,
+    "counts": {
+      "records": 17607,
+      "chars_scanned": 250002254,
+      "train_docs": 17419,
+      "train_chars": 247468542,
+      "val_docs": 188,
+      "val_chars": 2533712
+    }
+  },
+  "overlap_claim": "Old training text may be reused. No claim of an unseen-only corpus."
+}

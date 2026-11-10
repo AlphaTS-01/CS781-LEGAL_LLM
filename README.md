@@ -18,4 +18,10 @@ This project trains compact language models on legal text and adapts them for si
 
 Open the phase notebook in a GPU-enabled Jupyter environment. Attach the official phase data and the foundation checkpoint specified in the experiment guide, configure the input and working paths, then run the cells in order. Each phase uses its own output directory.
 
-The code and report come from the capstone submission archive. The Kaggle links identify notebook pages. Their saved versions and output files have yet to be verified. For Phase 1, the archived merge recipe covers the v2 submission (0.8307). Codabench displayed 0.8312 for v3 and marked it Failed.
+## Experiment records
+
+Open a phase's score in the table above for submission IDs, predictions, local evaluator commands and links to saved run metadata. The local evaluators compute the primary metric on labelled validation examples. Codabench scores come from the submitted test runs.
+
+The Phase 1, 2, 3, 4, 6 and 7 guides incorporate saved Kaggle session outputs. Phase 5 includes the training notebook and six submission exports. Its saved training session is still missing. Each run manifest identifies the available source files and records hashes for recovered prediction exports and available checkpoints. Kaggle links above point to notebook pages.
+
+Phase 1 v2 was the highest finished submission at 0.8307. Codabench displayed 0.8312 for v3 with status Failed.

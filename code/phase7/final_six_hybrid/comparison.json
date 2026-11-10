@@ -1,0 +1,42 @@
+[
+  {
+    "method": "full",
+    "model_weight": 0.5,
+    "dev_f1": 0.3468593663146192,
+    "dev_gain_vs_prime": 0.0011117287381878782,
+    "changed_test_queries": 67,
+    "same_top7_sets_as": null
+  },
+  {
+    "method": "partial",
+    "model_weight": 0.5,
+    "dev_f1": 0.3468593663146192,
+    "dev_gain_vs_prime": 0.0011117287381878782,
+    "changed_test_queries": 69,
+    "same_top7_sets_as": null
+  },
+  {
+    "method": "prompt",
+    "model_weight": 0.5,
+    "dev_f1": 0.3468593663146192,
+    "dev_gain_vs_prime": 0.0011117287381878782,
+    "changed_test_queries": 70,
+    "same_top7_sets_as": null
+  },
+  {
+    "method": "ia3",
+    "model_weight": 0.5,
+    "dev_f1": 0.34463590883824347,
+    "dev_gain_vs_prime": -0.0011117287381878782,
+    "changed_test_queries": 74,
+    "same_top7_sets_as": null
+  },
+  {
+    "method": "kd",
+    "model_weight": 0.5,
+    "dev_f1": 0.3468593663146192,
+    "dev_gain_vs_prime": 0.0011117287381878782,
+    "changed_test_queries": 60,
+    "same_top7_sets_as": null
+  }
+]

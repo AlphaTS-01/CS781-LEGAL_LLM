@@ -1,0 +1,7 @@
+{
+  "torch": "2.10.0+cu128",
+  "numpy": "2.0.2",
+  "tokenizers": "0.22.2",
+  "dataset": "Exploration-Lab/CS-781-Capstone",
+  "revision": "89edba6a44d6bb9593fd13b6895b5cd3b06eb82e"
+}
