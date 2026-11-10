@@ -1,6 +1,6 @@
 # CS781 capstone submission
 
-Each phase has one run.ipynb. Open the notebook in a CUDA-enabled Jupyter environment, set its data and foundation paths in the configuration section, and run the cells in order. Use the official Exploration-Lab/CS-781-Capstone splits and a fresh working directory for each phase. Downloads from the gated dataset require an authorized account. Training outputs and weights are external to this archive.
+Phase 1 includes four architecture notebooks. Start with [LEXWeave (Lexy)](phase1/lexweave.ipynb) for the main model. Phases 2 through 7 each use `run.ipynb`. Open the notebook in a CUDA-enabled Jupyter environment, set its data and foundation paths in the configuration section, and run the cells in order. Use the official Exploration-Lab/CS-781-Capstone splits and a fresh working directory for each phase. Downloads from the gated dataset require an authorized account. Training outputs and weights are external to this archive.
 
 | Phase | Selected configuration | Finished submission | Score |
 | --- | --- | --- | ---: |
