@@ -1,23 +1,13 @@
-# CS781 capstone submission
+# Selected submissions
 
-Phase 1 includes four architecture notebooks. Start with [LEXWeave (Lexy)](phase1/model1_lexweave/lexweave.ipynb) for the main model. The phase guides below link to each task notebook. Open the notebook in a CUDA-enabled Jupyter environment, set its data and foundation paths in the configuration section, and run the cells in order. Use the official Exploration-Lab/CS-781-Capstone splits and a fresh working directory for each phase. Downloads from the gated dataset require an authorized account. The phase guides link to recovered training records, submission predictions and local evaluators. Large checkpoint files stay in the named source archives. Their SHA-256 digests appear in the run manifests.
+The table lists the highest-scoring finished submission for each phase. Each filename links to the predictions inside the submitted ZIP.
 
-| Phase | Selected configuration | Finished submission | Score |
-| --- | --- | --- | ---: |
-| 1 | LEXWeave continuation and fallback merge | v2_submission.zip | 0.8307 |
-| 2 | E3 LoRA, CRF head | e3_lora.zip | 0.4957 |
-| 3 | E2 LoRA | e2lora.zip | 0.4792 |
-| 4 | E0 full fine-tuning | e0_p4.zip | 0.6752 |
-| 5 | Full fine-tuning | fullp5.zip | 0.2685 |
-| 6 | LoRMA+ | lormap6.zip | 0.8276 |
-| 7 | LoRMA, full-text TF-IDF and self-match filtering | lorma_confirmed.zip | 0.3538 |
-
-## Inputs and exports
-
-1. **Continuation.** Attach the original LEXWeave foundation export, including its tokenizer and manifests, then run the continuation notebook. The original configuration and tokenizer manifest are included for identification. The historical v2 archive used primary generations through case 249 and the earlier decode-v2 output as fallback. Run `python merge.py primary.json fallback.zip test.json v2_submission.zip` in phase1. All 196 recovered primary entries match the corresponding records in the 1,000-entry v2 submission. A fresh training run can generate different text.
-2. **NER.** Attach the LEXWeave checkpoint, tokenizer and model definition together, then run the [E3 notebook](phase2/model1_lexweave/ner_lora_crf.ipynb). Its predictions match submission 977791. The [phase guide](phase2/README.md) documents the original and continued LoRA runs.
-3. **Rhetorical roles.** Point CS781_FOUNDATION to the LEXWeave archive and CS781_WORK to the working directory. E2 uses rank-16 additive LoRA on the sentence-role model. Its experiment directory contains submission.zip.
-4. **Judgment outcomes.** Use the same foundation settings as Phase 3 with a separate CS781_WORK. E0 trains all model parameters and exports one case-level decision per test case.
-5. **Statutes.** Set LOCAL_DATA to Phase_5_LSI, or set it to None for the dataset download. Attach the foundation to the Kaggle notebook. Full tuning uses the original document and time caps, followed by threshold calibration. Retrieve runs/full/submission.zip from WORK.
-6. **Summaries.** Set LOCAL_DATA to Phase_6_Summ or use authenticated download. Attach the foundation. The selected run writes its summary export under runs/lorma.
-7. **Retrieval.** Attach the foundation and Phase_7_PCR inputs. The last cell combines the dense top seven and the full-text top fifty with lexical weight two, removes the query ID, and writes runs/lorma/lorma_confirmed.zip. The archived weight-two, self-filtered predictions were checked against the confirmed submission and matched for every query.
+| Phase | Configuration | Submission ID | Prediction export | Codabench score |
+| --- | --- | ---: | --- | ---: |
+| [1. Legal continuation](phase1/README.md) | LEXWeave continuation with decode-v2 fallback | 965367 | [v2_submission.zip](phase1/model1_lexweave/submissions/v2/prediction.json) | 0.8307 |
+| [2. Named entity recognition](phase2/README.md) | E3 LoRA with a CRF head | 977791 | [e3_lora.zip](phase2/model1_lexweave/E3_lora_M1_lexweave/prediction.json) | 0.4957 |
+| [3. Rhetorical roles](phase3/README.md) | E2 LoRA | 993270 | [e2lora.zip](phase3/runs/E2_lora/prediction.json) | 0.4792 |
+| [4. Judgment outcome](phase4/README.md) | E0 full fine-tuning | 1007383 | [e0_p4.zip](phase4/runs/E0_full/prediction.json) | 0.6752 |
+| [5. Statute identification](phase5/README.md) | Full fine-tuning | 1012181 | [fullp5.zip](phase5/runs/full/prediction.json) | 0.2685 |
+| [6. Summarization](phase6/README.md) | LoRMA+ | 1029346 | [lormap6.zip](phase6/runs/lorma/prediction.json) | 0.8276 |
+| [7. Prior case retrieval](phase7/README.md) | LoRMA with full-text TF-IDF and self-match filtering | 1040965 | [lorma_confirmed.zip](phase7/final_predictions/fulltext_w2.0_exclude_self_True/prediction.json) | 0.3538 |

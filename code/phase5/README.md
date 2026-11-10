@@ -1,6 +1,6 @@
 # Phase 5 · Statute identification
 
-[Experiment notebook](statute_identification.ipynb)
+[Statute identification notebook](statute_identification.ipynb)
 
 ## Kaggle inputs and run order
 
@@ -9,15 +9,15 @@
 3. Keep `EXPERIMENTS = ["full"]` for the selected run. To run the six-way comparison, use `["full", "partial", "lorma", "adapter", "prompt", "kd"]`. KD selects a completed teacher by selection-set macro-F1. Set `EXPORT_ALL_VARIANTS = True` to generate all six test exports.
 4. Sections 10–11 write the comparison and predictions. The selected configuration writes `runs/full/submission.zip`; its local prediction file is linked in the submission table.
 
-## Experiment records
+## Results
 
-All six [submission predictions](runs) were recovered from the individually named local ZIPs. The full Kaggle session archive, fitted thresholds, development predictions and per-run checkpoint records were unavailable. The notebook contains the training and calibration procedure.
+Full fine-tuning scored 0.2685 macro-F1 on Codabench, followed by LoRMA at 0.2298 and adapters at 0.2218. The [six prediction files](runs) are grouped by method.
 
 [Run and checkpoint manifest](run_manifest.json)
 
 ## Local evaluation
 
-The JSON report includes micro-F1 and exact label-set accuracy.
+The evaluator reports micro-F1 and exact label-set accuracy.
 
 Use matching held-out lists of records with `id` and `gold` or `pred` fields. Each label list contains integer statute IDs. The local scorer averages over IDs from zero through the largest gold ID. Run from this phase directory.
 

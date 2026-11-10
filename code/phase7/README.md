@@ -1,6 +1,6 @@
 # Phase 7 · Prior case retrieval
 
-[Experiment notebook](prior_case_retrieval.ipynb)
+[Prior case retrieval notebook](prior_case_retrieval.ipynb)
 
 ## Kaggle inputs and run order
 
@@ -9,7 +9,7 @@
 3. Run **Fuse the dense and full-text rankings**. It combines the dense top seven and the TF-IDF top fifty, applies lexical weight two, filters the query's own ID, and writes `runs/lorma/lorma_confirmed.zip`.
 4. To reproduce the full comparison, use the [hybrid reranker notebook](hybrid_rerankers.ipynb). It includes the same setup, runs the five rerankers, evaluates lexical weights on dev, rebuilds the selected LoRMA predictions and exports the six final ZIPs. Restoring the original checkpoint, indexes and reranker weights avoids repeating their training. The [hybrid comparison](final_six_hybrid/comparison.json) records dev F1 gains and the number of changed test queries.
 
-## Experiment records
+## Results
 
 The first training stage produced a [dense LoRMA baseline](runs/lorma/metrics.json). The later [hybrid comparison](final_six_hybrid/comparison.json) covers the five rerankers applied to the lexical/dense baseline. The [final predictions](final_predictions) are the six exports matched to the submission filenames. The LoRMA export uses full-text TF-IDF at weight 2 and filters each query from its own results.
 

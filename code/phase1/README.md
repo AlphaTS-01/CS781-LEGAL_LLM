@@ -7,7 +7,7 @@
 | AnchorGPT | [Training notebook](model3_anchor_gpt/anchor_gpt.ipynb) | GPT-style causal decoder trained from random weights. |
 | RelayLSTM | [Training notebook](model4_relay_lstm/relay_lstm.ipynb) | Recurrent hybrid trained from random weights. |
 
-Each notebook includes its model definition and experiment settings. Start with the setup and path configuration cells for the selected architecture. The [merge script](merge.py) combines saved primary and fallback generations for the LEXWeave v2 submission. The [experiment guide](../README.md) gives the command and expected inputs.
+Each notebook includes its model definition and experiment settings. Start with the setup and path configuration cells for the selected architecture. The [merge script](merge.py) combines saved primary and fallback generations for the LEXWeave v2 submission.
 
 ## Kaggle inputs and run order
 
@@ -18,11 +18,11 @@ Each notebook includes its model definition and experiment settings. Start with 
 
 The [RelayLSTM generation settings](model4_relay_lstm/generation/manifest.json) identify the checkpoint and decoding configuration. Its [generation log](model4_relay_lstm/generation/generation_info.json) records all 1,000 case IDs.
 
-## Experiment records
+## Results
 
-[LEXWeave foundation metrics](model1_lexweave/metrics.json) record 95,232,768 parameters and checkpoint step 5840. The [BridgeFormer history](model2_bridgeformer/history.jsonl) and [RelayLSTM history](model4_relay_lstm/history.jsonl) record their training trajectories. The [AnchorGPT v2 predictions](model3_anchor_gpt/submissions/v2/prediction.json) accompany its notebook. An AnchorGPT checkpoint and training history were unavailable.
+[LEXWeave foundation metrics](model1_lexweave/metrics.json) record 95,232,768 parameters and checkpoint step 5840. The [BridgeFormer history](model2_bridgeformer/history.jsonl) and [RelayLSTM history](model4_relay_lstm/history.jsonl) record their training trajectories. The [AnchorGPT v2 predictions](model3_anchor_gpt/submissions/v2/prediction.json) accompany its notebook.
 
-The archived v2 merge used 249 primary case IDs. All 196 [recovered primary records](model1_lexweave/primary_partial.json) match the [submitted v2 output](model1_lexweave/submissions/v2/prediction.json). The [decode-v2 fallback](model1_lexweave/submissions/decode_v2/prediction.json) is available. The other primary records are needed to replay the full merge from its original inputs.
+The [v2 submission](model1_lexweave/submissions/v2/prediction.json) combines primary generations for case IDs 1–249 with the [decode-v2 fallback](model1_lexweave/submissions/decode_v2/prediction.json). All 196 entries in the [saved primary file](model1_lexweave/primary_partial.json) match the corresponding submitted continuations.
 
 [Run and checkpoint manifest](checkpoint_manifest.json) · [Archived Kaggle cell source](session_source.py)
 

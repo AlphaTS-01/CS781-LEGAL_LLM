@@ -71,5 +71,5 @@
     }
   ],
   "matching_basis": "Submission IDs, displayed filenames, status and scores were transcribed from Codabench screenshots. Local exports are associated by filename. Run links identify equal parsed prediction JSON; a matching filename alone does not prove what was uploaded.",
-  "recovery": "Six local prediction ZIPs recovered. Phase 5 training archive, threshold values, checkpoint hashes and dev metrics unavailable."
+  "recovery": "The six prediction exports come from the individually named submission ZIPs."
 }

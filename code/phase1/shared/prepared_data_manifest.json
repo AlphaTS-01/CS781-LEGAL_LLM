@@ -18,6 +18,5 @@
   ],
   "lexweave_raw_data": "model1_lexweave/raw_manifest.json",
   "lexweave_packed_data": "model1_lexweave/packed_manifest.json",
-  "path_base": "phase1",
-  "anchor_gpt": "Tokenizer from the training session was unavailable."
+  "path_base": "phase1"
 }

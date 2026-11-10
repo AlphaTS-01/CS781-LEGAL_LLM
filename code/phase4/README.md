@@ -1,6 +1,6 @@
 # Phase 4 · Judgment outcome prediction
 
-[Experiment notebook](judgment_prediction.ipynb)
+[Judgment outcome notebook](judgment_prediction.ipynb)
 
 ## Kaggle inputs and run order
 
@@ -9,7 +9,7 @@
 3. In section 9, leave `RUN_QUEUE = ["E0_full"]` for the selected submission. For other experiments, select their registry entries and compare the tuned thresholds recorded in their run folders.
 4. Score the saved development probabilities with the run's own threshold. Use that run's case-level `submission.zip` for Codabench.
 
-## Experiment records
+## Results
 
 The [five saved runs](runs) include development probabilities, reference labels, selected thresholds and training history. The historical fold contains repeated case IDs. Evaluate the ordered saved rows with `--saved-run` to reproduce the reported macro-F1. The separate truth/prediction interface expects unique submission IDs.
 
@@ -25,7 +25,7 @@ The [five saved runs](runs) include development probabilities, reference labels,
 
 ## Local evaluation
 
-The JSON report includes positive-class precision and recall alongside macro-F1.
+The evaluator reports positive-class precision and recall alongside macro-F1.
 
 The example uses the included E0 records. For paired JSON exports, pass `--truth` and `--prediction` with lists of records containing `id` and an integer `gold` or `pred` field. Run from this phase directory.
 

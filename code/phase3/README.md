@@ -1,6 +1,6 @@
 # Phase 3 · Rhetorical role prediction
 
-[Experiment notebook](rhetorical_roles_experiments.ipynb)
+[Rhetorical roles notebook](rhetorical_roles_experiments.ipynb)
 
 ## Kaggle inputs and run order
 
@@ -9,7 +9,7 @@
 3. In section 9, use `RUN_QUEUE = ["E2_lora"]` for the selected run. For a comparison, add experiment names from the notebook's registry. Put the teacher before the student when selecting distillation. Use the same working folder to reuse finished runs.
 4. Use the selected run's `submission.zip` for test predictions. For local scoring, use its held-out predictions and both domain reference maps.
 
-## Experiment records
+## Results
 
 Each [run directory](runs) contains held-out predictions, training history and the test export. The training log reports macro-F1 over observed labels and a separate score over the full 13-label vocabulary. The local evaluator reports the latter. The [CL](validation/CL_labels.json) and [IT](validation/IT_labels.json) reference maps contain the validation labels keyed by case ID.
 
@@ -42,7 +42,7 @@ python evaluate_phase3.py --truth validation/CL_labels.json --truth-it validatio
 | 993600 | `e4_ia3.zip` | 2026-10-16 20:11 | Finished | 0.4185 | [JSON](runs/E4_ia3/prediction.json) |
 | 993467 | `kd.zip` | 2026-10-16 19:43 | Finished | 0.4505 | [JSON](runs/E6_kd/prediction.json) |
 | 993275 | `prompt.zip` | 2026-10-16 18:59 | Finished | 0.4199 | [JSON](runs/E5_prompt/prediction.json) |
-| 993274 | `e4_ia3.zip` | 2026-10-16 18:59 | Cancelled | — | Unverified |
+| 993274 | `e4_ia3.zip` | 2026-10-16 18:59 | Cancelled | — | — |
 | 993272 | `e3rslora.zip` | 2026-10-16 18:59 | Finished | 0.4442 | [JSON](runs/E3_rslora/prediction.json) |
 | 993270 | `e2lora.zip` | 2026-10-16 18:58 | Finished | **0.4792** | [JSON](runs/E2_lora/prediction.json) |
 | 992773 | `e1lormap3.zip` | 2026-10-16 15:50 | Finished | 0.4171 | [JSON](runs/E1_lorma/prediction.json) |
