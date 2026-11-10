@@ -9,6 +9,7 @@ from evaluation import align, fscore, parser, read, records
 def main():
     cmd = parser("Evaluate micro precision, recall and F1 at seven")
     cmd.add_argument("--candidate-ids", required=True, help="JSON list of candidate IDs or mapping keyed by candidate ID")
+    cmd.add_argument("--output", type=Path, help="Save scores as JSON")
     args = cmd.parse_args()
     truth = records(read(args.truth), "relevant_candidates")
     pred = read(args.prediction)
@@ -27,9 +28,18 @@ def main():
         hits += len(relevant.intersection(output))
         gold_count += len(relevant)
         predicted_count += len(output)
-    print(json.dumps({"micro_f1_at7": fscore(hits, gold_count, predicted_count),
-                      "micro_precision_at7": hits / predicted_count,
-                      "micro_recall_at7": hits / gold_count if gold_count else 0}, indent=2))
+    result = {
+        "micro_f1_at7": fscore(hits, gold_count, predicted_count),
+        "micro_precision_at7": hits / predicted_count,
+        "micro_recall_at7": hits / gold_count if gold_count else 0,
+        "tp": hits,
+        "fp": predicted_count - hits,
+        "fn": gold_count - hits,
+    }
+    rendered = json.dumps(result, indent=2)
+    if args.output:
+        args.output.write_text(rendered + "\n", encoding="utf-8")
+    print(rendered)
 
 
 if __name__ == "__main__":

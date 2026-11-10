@@ -55,13 +55,13 @@ def counts():
     return Counter(), Counter(), Counter()
 
 
-def classify(pairs, labels):
+def classification_counts(pairs):
     gold, predicted, correct = counts()
     for g, p in pairs:
         gold[g] += 1
         predicted[p] += 1
         correct[g] += g == p
-    return macro((gold, predicted, correct), labels)
+    return gold, predicted, correct
 
 
 def text_score(refs, preds):
@@ -69,3 +69,27 @@ def text_score(refs, preds):
     if any(not isinstance(s, str) or not s.strip() for s in refs + preds):
         raise ValueError("Generated text and reference text must be nonempty strings.")
     return float(score(preds, refs, lang="en", batch_size=8, verbose=False)[2].mean())
+
+
+def label_metrics(totals, labels):
+    gold, predicted, correct = totals
+    labels = list(labels)
+    macro_f1 = macro(totals, labels)
+    per_label = {}
+    for label in labels:
+        hits = correct[label]
+        per_label[label] = {
+            "precision": hits / predicted[label] if predicted[label] else 0.0,
+            "recall": hits / gold[label] if gold[label] else 0.0,
+            "f1": fscore(hits, gold[label], predicted[label]),
+        }
+    return {
+        "macro_f1": macro_f1,
+        "macro_precision": sum(row["precision"] for row in per_label.values()) / len(labels),
+        "macro_recall": sum(row["recall"] for row in per_label.values()) / len(labels),
+        "per_label": per_label,
+    }
+
+
+def classify(pairs, labels):
+    return macro(classification_counts(pairs), labels)

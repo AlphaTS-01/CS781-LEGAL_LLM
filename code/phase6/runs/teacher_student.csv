@@ -1,0 +1,3 @@
+role,method,rouge1,rougeL,total_parameters,trainable_parameters,train_seconds,source
+teacher,lorma,0.2764998573874667,0.16854985690055022,96954432,1721664,3602.6950597629993,lorma/metrics.json
+student,kd,0.26628200153674353,0.16465892262389123,53908224,53908224,3074.787275273,kd/metrics.json

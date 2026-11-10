@@ -11,7 +11,7 @@
       "local_export": "prmptp5.zip",
       "prediction_sha256": "60f5cde539c73c5a89f7887c18d43b644d987666574ff236b560b261724615a5",
       "matching_prediction_paths": [
-        "submissions/1013054/prediction.json"
+        "runs/prompt/prediction.json"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "local_export": "kdp5.zip",
       "prediction_sha256": "c458b4c402606c17502aa6f09437fa3944e5728ff1a5a38f92f0c4cc4aa4fa34",
       "matching_prediction_paths": [
-        "submissions/1013053/prediction.json"
+        "runs/kd/prediction.json"
       ]
     },
     {
@@ -33,7 +33,7 @@
       "local_export": "adapterp5.zip",
       "prediction_sha256": "5bf682d379e16958522871ad1a84dd6899ffcaa7e2eced7ce36480b4235e09ad",
       "matching_prediction_paths": [
-        "submissions/1012798/prediction.json"
+        "runs/adapter/prediction.json"
       ]
     },
     {
@@ -44,7 +44,7 @@
       "local_export": "lormap5.zip",
       "prediction_sha256": "a6cc03e0f6f33a7f4e34a4725bf7f4bbfbc5d787b62fd6e01b6f62d92e077b5d",
       "matching_prediction_paths": [
-        "submissions/1012793/prediction.json"
+        "runs/lorma/prediction.json"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "local_export": "partialp5.zip",
       "prediction_sha256": "baa393e1a1478ccb0b521583f9f3a4146edf57905bd47addd143135b4a8db909",
       "matching_prediction_paths": [
-        "submissions/1012499/prediction.json"
+        "runs/partial/prediction.json"
       ]
     },
     {
@@ -66,7 +66,7 @@
       "local_export": "fullp5.zip",
       "prediction_sha256": "acb57047527d7d5eb9ed04345aee9000011adc0e193c16d2e75cdcad0cc72302",
       "matching_prediction_paths": [
-        "submissions/1012181/prediction.json"
+        "runs/full/prediction.json"
       ]
     }
   ],

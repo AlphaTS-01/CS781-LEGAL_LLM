@@ -1,0 +1,19 @@
+{
+  "checkpoint_sha": "4e7b61ad1245a4305d3972834e119145853da701e4127c1ed9e14de1bb31e0e1",
+  "test_sha": "614f348b3dcbb2a9f43706cd239438386dc396246cd5cc685a5ccb6eb06b7218",
+  "tokenizer_sha": "3242bd497d3d5646bee12f8cd86ec289aaafed393a4cff632bd40a3cbd0c73ec",
+  "decoder": "remaining_v1_cached_retry",
+  "temperatures": [
+    0.7,
+    0.5,
+    0.85,
+    0.0
+  ],
+  "top_p": 0.9,
+  "penalty": 1.15,
+  "max_tokens": 768,
+  "ngram": 4,
+  "punct": 6,
+  "seed": 42,
+  "context": 1024
+}

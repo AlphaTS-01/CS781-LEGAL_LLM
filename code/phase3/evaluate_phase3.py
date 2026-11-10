@@ -3,7 +3,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from evaluation import align, classify, parser, read, records, unique_map
+from evaluation import align, classification_counts, label_metrics, parser, read, records, unique_map
 
 
 def main():
@@ -26,7 +26,10 @@ def main():
     vocab = read(args.labels)
     if isinstance(vocab, dict) and all(isinstance(v, str) for v in vocab.values()):
         vocab = vocab.values()
-    print(json.dumps({"macro_f1_all_labels": classify(sentences, vocab)}, indent=2))
+    report = label_metrics(classification_counts(sentences), vocab)
+    report["macro_f1_all_labels"] = report.pop("macro_f1")
+    report.update(cl_documents=len(cl), it_documents=len(it), sentences=len(sentences))
+    print(json.dumps(report, indent=2))
 
 
 if __name__ == "__main__":

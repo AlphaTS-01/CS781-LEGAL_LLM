@@ -1,6 +1,13 @@
 # Phase 6 · Legal summarization
 
-[Experiment notebook](run.ipynb)
+[Experiment notebook](legal_summarization.ipynb)
+
+## Kaggle inputs and run order
+
+1. Attach the LEXWeave foundation and `Phase_6_Summ` data. The [download metadata](runs/download.json) records the dataset revision. To continue a saved session, set `RESUME_FROM` to its output directory and use a writable `WORK` directory.
+2. Run sections 1–6 to create the held-out split, condition on selected judgment passages, train on summary tokens and define decoding. In section 7, train the selected LoRMA model. Section 8 generates one summary per test ID.
+3. For the six-way comparison, set `EXPERIMENTS = ["lora", "lorma", "houlsby", "pfeiffer", "prompt", "kd"]` in section 1. The distillation cell chooses the teacher by held-out ROUGE-L. The recorded teacher was LoRMA. The [teacher–student comparison](runs/teacher_student.csv) shows the corresponding scores and model sizes.
+4. Use `runs/lorma/submission.zip` for the selected export. The final Codabench score and the local ROUGE values appear in separate tables below.
 
 ## Experiment records
 
@@ -18,6 +25,8 @@ The [method comparison](runs/comparison.csv) records six completed runs. Its ROU
 | [kd](runs/kd/metrics.json) | 0.1647 |
 
 ## Local evaluation
+
+Install `rouge-score` alongside the BERTScore dependencies for ROUGE-1 and ROUGE-L.
 
 Supply reference summaries keyed by case ID and a prediction export with `id` and `summary` fields. Install `torch` and `bert-score` to compute English BERTScore F1. The first run downloads the scoring model. Run from this phase directory.
 

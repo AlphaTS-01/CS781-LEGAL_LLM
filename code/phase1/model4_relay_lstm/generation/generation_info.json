@@ -1,0 +1,8002 @@
+{
+  "1": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 42,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "2": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 43,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "3": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 44,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "4": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 45,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "5": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 46,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "6": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 47,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "7": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 48,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "8": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 49,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "9": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 50,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "10": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 51,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "11": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 52,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "12": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 53,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "13": {
+    "tokens": 134,
+    "attempt": 0,
+    "seed": 54,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "14": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 55,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "15": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 56,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "16": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 57,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "17": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 58,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "18": {
+    "tokens": 135,
+    "attempt": 0,
+    "seed": 59,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "19": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 60,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "20": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 61,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "21": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 62,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "22": {
+    "tokens": 135,
+    "attempt": 0,
+    "seed": 63,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "23": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 64,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "24": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 65,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "25": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 66,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "26": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 67,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "27": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 68,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "28": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 69,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "29": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 70,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "30": {
+    "tokens": 172,
+    "attempt": 0,
+    "seed": 71,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "31": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 72,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "32": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 73,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "33": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 74,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "34": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 75,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "35": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 76,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "36": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 77,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "37": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 78,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "38": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 79,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "39": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 80,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "40": {
+    "tokens": 173,
+    "attempt": 0,
+    "seed": 81,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "41": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 82,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "42": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 83,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "43": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 84,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "44": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 85,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "45": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 86,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "46": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 87,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "47": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 88,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "48": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 89,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "49": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 90,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "50": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 91,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "51": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 92,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "52": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 93,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "53": {
+    "tokens": 131,
+    "attempt": 0,
+    "seed": 94,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "54": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 95,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "55": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 96,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "56": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 97,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "57": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 98,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "58": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 99,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "59": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 100,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "60": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 101,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "61": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 102,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "62": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 103,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "63": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 104,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "64": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 105,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "65": {
+    "tokens": 172,
+    "attempt": 0,
+    "seed": 106,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "66": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 107,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "67": {
+    "tokens": 178,
+    "attempt": 0,
+    "seed": 108,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "68": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 109,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "69": {
+    "tokens": 181,
+    "attempt": 0,
+    "seed": 110,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "70": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 111,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "71": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 112,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "72": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 113,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "73": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 114,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "74": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 115,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "75": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 116,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "76": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 117,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "77": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 118,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "78": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 119,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "79": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 120,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "80": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 121,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "81": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 122,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "82": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 123,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "83": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 124,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "84": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 125,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "85": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 126,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "86": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 127,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "87": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 128,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "88": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 129,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "89": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 130,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "90": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 131,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "91": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 132,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "92": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 133,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "93": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 134,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "94": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 135,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "95": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 136,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "96": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 137,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "97": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 138,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "98": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 139,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "99": {
+    "tokens": 184,
+    "attempt": 0,
+    "seed": 140,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "100": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 141,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "101": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 142,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "102": {
+    "tokens": 169,
+    "attempt": 0,
+    "seed": 143,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "103": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 144,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "104": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 145,
+    "temperature": 0.7,
+    "context_resets": 1,
+    "previous_failures": []
+  },
+  "105": {
+    "tokens": 191,
+    "attempt": 0,
+    "seed": 146,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "106": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 147,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "107": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 148,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "108": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 149,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "109": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 150,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "110": {
+    "tokens": 182,
+    "attempt": 0,
+    "seed": 151,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "111": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 152,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "112": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 153,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "113": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 154,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "114": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 155,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "115": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 156,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "116": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 157,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "117": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 158,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "118": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 159,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "119": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 160,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "120": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 161,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "121": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 162,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "122": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 163,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "123": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 164,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "124": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 165,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "125": {
+    "tokens": 192,
+    "attempt": 0,
+    "seed": 166,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "126": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 167,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "127": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 168,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "128": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 169,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "129": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 170,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "130": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 171,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "131": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 172,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "132": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 173,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "133": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 174,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "134": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 175,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "135": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 176,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "136": {
+    "tokens": 176,
+    "attempt": 0,
+    "seed": 177,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "137": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 178,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "138": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 179,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "139": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 180,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "140": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 181,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "141": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 182,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "142": {
+    "tokens": 166,
+    "attempt": 0,
+    "seed": 183,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "143": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 184,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "144": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 185,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "145": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 186,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "146": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 187,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "147": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 188,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "148": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 189,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "149": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 190,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "150": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 191,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "151": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 192,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "152": {
+    "tokens": 174,
+    "attempt": 0,
+    "seed": 193,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "153": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 194,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "154": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 195,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "155": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 196,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "156": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 197,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "157": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 198,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "158": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 199,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "159": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 200,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "160": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 201,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "161": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 202,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "162": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 203,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "163": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 204,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "164": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 205,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "165": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 206,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "166": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 207,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "167": {
+    "tokens": 168,
+    "attempt": 0,
+    "seed": 208,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "168": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 209,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "169": {
+    "tokens": 173,
+    "attempt": 0,
+    "seed": 210,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "170": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 211,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "171": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 212,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "172": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 213,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "173": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 214,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "174": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 215,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "175": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 216,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "176": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 217,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "177": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 218,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "178": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 219,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "179": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 220,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "180": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 221,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "181": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 222,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "182": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 223,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "183": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 224,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "184": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 225,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "185": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 226,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "186": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 227,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "187": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 228,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "188": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 229,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "189": {
+    "tokens": 174,
+    "attempt": 0,
+    "seed": 230,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "190": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 231,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "191": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 232,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "192": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 233,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "193": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 234,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "194": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 235,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "195": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 236,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "196": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 237,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "197": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 238,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "198": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 239,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "199": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 240,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "200": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 241,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "201": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 242,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "202": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 243,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "203": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 244,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "204": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 245,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "205": {
+    "tokens": 196,
+    "attempt": 0,
+    "seed": 246,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "206": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 247,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "207": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 248,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "208": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 249,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "209": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 250,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "210": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 251,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "211": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 252,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "212": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 253,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "213": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 254,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "214": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 255,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "215": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 256,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "216": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 257,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "217": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 258,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "218": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 259,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "219": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 260,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "220": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 261,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "221": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 262,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "222": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 263,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "223": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 264,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "224": {
+    "tokens": 167,
+    "attempt": 0,
+    "seed": 265,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "225": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 266,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "226": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 267,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "227": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 268,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "228": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 269,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "229": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 270,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "230": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 271,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "231": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 272,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "232": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 273,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "233": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 274,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "234": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 275,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "235": {
+    "tokens": 174,
+    "attempt": 0,
+    "seed": 276,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "236": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 277,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "237": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 278,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "238": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 279,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "239": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 280,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "240": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 281,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "241": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 282,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "242": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 283,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "243": {
+    "tokens": 168,
+    "attempt": 0,
+    "seed": 284,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "244": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 285,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "245": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 286,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "246": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 287,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "247": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 288,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "248": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 289,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "249": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 290,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "250": {
+    "tokens": 137,
+    "attempt": 0,
+    "seed": 291,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "251": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 292,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "252": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 293,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "253": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 294,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "254": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 295,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "255": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 296,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "256": {
+    "tokens": 171,
+    "attempt": 0,
+    "seed": 297,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "257": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 298,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "258": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 299,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "259": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 300,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "260": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 301,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "261": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 302,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "262": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 303,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "263": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 304,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "264": {
+    "tokens": 167,
+    "attempt": 0,
+    "seed": 305,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "265": {
+    "tokens": 185,
+    "attempt": 0,
+    "seed": 306,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "266": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 307,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "267": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 308,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "268": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 309,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "269": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 310,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "270": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 311,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "271": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 312,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "272": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 313,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "273": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 314,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "274": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 315,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "275": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 316,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "276": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 317,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "277": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 318,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "278": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 319,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "279": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 320,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "280": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 321,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "281": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 322,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "282": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 323,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "283": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 324,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "284": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 325,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "285": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 326,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "286": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 327,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "287": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 328,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "288": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 329,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "289": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 330,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "290": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 331,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "291": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 332,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "292": {
+    "tokens": 135,
+    "attempt": 0,
+    "seed": 333,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "293": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 334,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "294": {
+    "tokens": 172,
+    "attempt": 0,
+    "seed": 335,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "295": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 336,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "296": {
+    "tokens": 135,
+    "attempt": 0,
+    "seed": 337,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "297": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 338,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "298": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 339,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "299": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 340,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "300": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 341,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "301": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 342,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "302": {
+    "tokens": 137,
+    "attempt": 0,
+    "seed": 343,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "303": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 344,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "304": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 345,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "305": {
+    "tokens": 137,
+    "attempt": 0,
+    "seed": 346,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "306": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 347,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "307": {
+    "tokens": 167,
+    "attempt": 0,
+    "seed": 348,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "308": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 349,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "309": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 350,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "310": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 351,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "311": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 352,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "312": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 353,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "313": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 354,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "314": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 355,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "315": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 356,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "316": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 357,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "317": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 358,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "318": {
+    "tokens": 236,
+    "attempt": 0,
+    "seed": 359,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "319": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 360,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "320": {
+    "tokens": 166,
+    "attempt": 0,
+    "seed": 361,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "321": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 362,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "322": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 363,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "323": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 364,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "324": {
+    "tokens": 169,
+    "attempt": 0,
+    "seed": 365,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "325": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 366,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "326": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 367,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "327": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 368,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "328": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 369,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "329": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 370,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "330": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 371,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "331": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 372,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "332": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 373,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "333": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 374,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "334": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 375,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "335": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 376,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "336": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 377,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "337": {
+    "tokens": 135,
+    "attempt": 0,
+    "seed": 378,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "338": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 379,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "339": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 380,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "340": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 381,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "341": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 382,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "342": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 383,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "343": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 384,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "344": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 385,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "345": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 386,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "346": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 387,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "347": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 388,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "348": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 389,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "349": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 390,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "350": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 391,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "351": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 392,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "352": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 393,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "353": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 394,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "354": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 395,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "355": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 396,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "356": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 397,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "357": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 398,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "358": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 399,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "359": {
+    "tokens": 172,
+    "attempt": 0,
+    "seed": 400,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "360": {
+    "tokens": 168,
+    "attempt": 0,
+    "seed": 401,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "361": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 402,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "362": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 403,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "363": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 404,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "364": {
+    "tokens": 169,
+    "attempt": 0,
+    "seed": 405,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "365": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 406,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "366": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 407,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "367": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 408,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "368": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 409,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "369": {
+    "tokens": 137,
+    "attempt": 0,
+    "seed": 410,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "370": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 411,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "371": {
+    "tokens": 164,
+    "attempt": 0,
+    "seed": 412,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "372": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 413,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "373": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 414,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "374": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 415,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "375": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 416,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "376": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 417,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "377": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 418,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "378": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 419,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "379": {
+    "tokens": 199,
+    "attempt": 0,
+    "seed": 420,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "380": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 421,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "381": {
+    "tokens": 183,
+    "attempt": 0,
+    "seed": 422,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "382": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 423,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "383": {
+    "tokens": 167,
+    "attempt": 0,
+    "seed": 424,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "384": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 425,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "385": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 426,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "386": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 427,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "387": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 428,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "388": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 429,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "389": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 430,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "390": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 431,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "391": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 432,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "392": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 433,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "393": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 434,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "394": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 435,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "395": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 436,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "396": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 437,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "397": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 438,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "398": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 439,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "399": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 440,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "400": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 441,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "401": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 442,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "402": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 443,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "403": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 444,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "404": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 445,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "405": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 446,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "406": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 447,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "407": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 448,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "408": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 449,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "409": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 450,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "410": {
+    "tokens": 169,
+    "attempt": 0,
+    "seed": 451,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "411": {
+    "tokens": 177,
+    "attempt": 0,
+    "seed": 452,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "412": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 453,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "413": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 454,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "414": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 455,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "415": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 456,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "416": {
+    "tokens": 175,
+    "attempt": 0,
+    "seed": 457,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "417": {
+    "tokens": 137,
+    "attempt": 0,
+    "seed": 458,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "418": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 459,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "419": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 460,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "420": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 461,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "421": {
+    "tokens": 164,
+    "attempt": 0,
+    "seed": 462,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "422": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 463,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "423": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 464,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "424": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 465,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "425": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 466,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "426": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 467,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "427": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 468,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "428": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 469,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "429": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 470,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "430": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 471,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "431": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 472,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "432": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 473,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "433": {
+    "tokens": 167,
+    "attempt": 0,
+    "seed": 474,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "434": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 475,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "435": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 476,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "436": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 477,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "437": {
+    "tokens": 177,
+    "attempt": 0,
+    "seed": 478,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "438": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 479,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "439": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 480,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "440": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 481,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "441": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 482,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "442": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 483,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "443": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 484,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "444": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 485,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "445": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 486,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "446": {
+    "tokens": 168,
+    "attempt": 0,
+    "seed": 487,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "447": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 488,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "448": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 489,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "449": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 490,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "450": {
+    "tokens": 173,
+    "attempt": 0,
+    "seed": 491,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "451": {
+    "tokens": 171,
+    "attempt": 0,
+    "seed": 492,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "452": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 493,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "453": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 494,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "454": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 495,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "455": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 496,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "456": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 497,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "457": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 498,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "458": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 499,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "459": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 500,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "460": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 501,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "461": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 502,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "462": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 503,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "463": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 504,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "464": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 505,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "465": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 506,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "466": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 507,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "467": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 508,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "468": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 509,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "469": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 510,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "470": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 511,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "471": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 512,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "472": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 513,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "473": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 514,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "474": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 515,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "475": {
+    "tokens": 135,
+    "attempt": 0,
+    "seed": 516,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "476": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 517,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "477": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 518,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "478": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 519,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "479": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 520,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "480": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 521,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "481": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 522,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "482": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 523,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "483": {
+    "tokens": 179,
+    "attempt": 0,
+    "seed": 524,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "484": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 525,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "485": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 526,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "486": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 527,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "487": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 528,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "488": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 529,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "489": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 530,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "490": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 531,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "491": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 532,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "492": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 533,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "493": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 534,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "494": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 535,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "495": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 536,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "496": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 537,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "497": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 538,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "498": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 539,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "499": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 540,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "500": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 541,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "501": {
+    "tokens": 177,
+    "attempt": 0,
+    "seed": 542,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "502": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 543,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "503": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 544,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "504": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 545,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "505": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 546,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "506": {
+    "tokens": 166,
+    "attempt": 0,
+    "seed": 547,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "507": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 548,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "508": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 549,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "509": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 550,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "510": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 551,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "511": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 552,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "512": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 553,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "513": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 554,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "514": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 555,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "515": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 556,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "516": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 557,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "517": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 558,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "518": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 559,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "519": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 560,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "520": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 561,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "521": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 562,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "522": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 563,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "523": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 564,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "524": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 565,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "525": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 566,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "526": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 567,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "527": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 568,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "528": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 569,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "529": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 570,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "530": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 571,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "531": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 572,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "532": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 573,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "533": {
+    "tokens": 137,
+    "attempt": 0,
+    "seed": 574,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "534": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 575,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "535": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 576,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "536": {
+    "tokens": 197,
+    "attempt": 0,
+    "seed": 577,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "537": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 578,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "538": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 579,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "539": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 580,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "540": {
+    "tokens": 173,
+    "attempt": 0,
+    "seed": 581,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "541": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 582,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "542": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 583,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "543": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 584,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "544": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 585,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "545": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 586,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "546": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 587,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "547": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 588,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "548": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 589,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "549": {
+    "tokens": 171,
+    "attempt": 0,
+    "seed": 590,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "550": {
+    "tokens": 133,
+    "attempt": 0,
+    "seed": 591,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "551": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 592,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "552": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 593,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "553": {
+    "tokens": 168,
+    "attempt": 0,
+    "seed": 594,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "554": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 595,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "555": {
+    "tokens": 177,
+    "attempt": 0,
+    "seed": 596,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "556": {
+    "tokens": 168,
+    "attempt": 0,
+    "seed": 597,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "557": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 598,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "558": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 599,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "559": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 600,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "560": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 601,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "561": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 602,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "562": {
+    "tokens": 164,
+    "attempt": 0,
+    "seed": 603,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "563": {
+    "tokens": 166,
+    "attempt": 0,
+    "seed": 604,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "564": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 605,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "565": {
+    "tokens": 176,
+    "attempt": 0,
+    "seed": 606,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "566": {
+    "tokens": 164,
+    "attempt": 0,
+    "seed": 607,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "567": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 608,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "568": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 609,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "569": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 610,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "570": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 611,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "571": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 612,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "572": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 613,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "573": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 614,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "574": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 615,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "575": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 616,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "576": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 617,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "577": {
+    "tokens": 164,
+    "attempt": 0,
+    "seed": 618,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "578": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 619,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "579": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 620,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "580": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 621,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "581": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 622,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "582": {
+    "tokens": 179,
+    "attempt": 0,
+    "seed": 623,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "583": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 624,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "584": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 625,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "585": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 626,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "586": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 627,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "587": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 628,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "588": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 629,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "589": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 630,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "590": {
+    "tokens": 178,
+    "attempt": 0,
+    "seed": 631,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "591": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 632,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "592": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 633,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "593": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 634,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "594": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 635,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "595": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 636,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "596": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 637,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "597": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 638,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "598": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 639,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "599": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 640,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "600": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 641,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "601": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 642,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "602": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 643,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "603": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 644,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "604": {
+    "tokens": 168,
+    "attempt": 0,
+    "seed": 645,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "605": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 646,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "606": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 647,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "607": {
+    "tokens": 135,
+    "attempt": 0,
+    "seed": 648,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "608": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 649,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "609": {
+    "tokens": 177,
+    "attempt": 0,
+    "seed": 650,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "610": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 651,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "611": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 652,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "612": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 653,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "613": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 654,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "614": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 655,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "615": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 656,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "616": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 657,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "617": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 658,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "618": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 659,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "619": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 660,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "620": {
+    "tokens": 134,
+    "attempt": 0,
+    "seed": 661,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "621": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 662,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "622": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 663,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "623": {
+    "tokens": 183,
+    "attempt": 0,
+    "seed": 664,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "624": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 665,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "625": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 666,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "626": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 667,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "627": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 668,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "628": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 669,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "629": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 670,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "630": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 671,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "631": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 672,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "632": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 673,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "633": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 674,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "634": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 675,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "635": {
+    "tokens": 164,
+    "attempt": 0,
+    "seed": 676,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "636": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 677,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "637": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 678,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "638": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 679,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "639": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 680,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "640": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 681,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "641": {
+    "tokens": 137,
+    "attempt": 0,
+    "seed": 682,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "642": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 683,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "643": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 684,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "644": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 685,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "645": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 686,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "646": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 687,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "647": {
+    "tokens": 176,
+    "attempt": 0,
+    "seed": 688,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "648": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 689,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "649": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 690,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "650": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 691,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "651": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 692,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "652": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 693,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "653": {
+    "tokens": 175,
+    "attempt": 0,
+    "seed": 694,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "654": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 695,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "655": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 696,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "656": {
+    "tokens": 166,
+    "attempt": 0,
+    "seed": 697,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "657": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 698,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "658": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 699,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "659": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 700,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "660": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 701,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "661": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 702,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "662": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 703,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "663": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 704,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "664": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 705,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "665": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 706,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "666": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 707,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "667": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 708,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "668": {
+    "tokens": 135,
+    "attempt": 0,
+    "seed": 709,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "669": {
+    "tokens": 166,
+    "attempt": 0,
+    "seed": 710,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "670": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 711,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "671": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 712,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "672": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 713,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "673": {
+    "tokens": 171,
+    "attempt": 0,
+    "seed": 714,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "674": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 715,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "675": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 716,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "676": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 717,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "677": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 718,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "678": {
+    "tokens": 179,
+    "attempt": 0,
+    "seed": 719,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "679": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 720,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "680": {
+    "tokens": 134,
+    "attempt": 0,
+    "seed": 721,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "681": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 722,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "682": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 723,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "683": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 724,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "684": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 725,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "685": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 726,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "686": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 727,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "687": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 728,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "688": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 729,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "689": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 730,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "690": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 731,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "691": {
+    "tokens": 171,
+    "attempt": 0,
+    "seed": 732,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "692": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 733,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "693": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 734,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "694": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 735,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "695": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 736,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "696": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 737,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "697": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 738,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "698": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 739,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "699": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 740,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "700": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 741,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "701": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 742,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "702": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 743,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "703": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 744,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "704": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 745,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "705": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 746,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "706": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 747,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "707": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 748,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "708": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 749,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "709": {
+    "tokens": 179,
+    "attempt": 0,
+    "seed": 750,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "710": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 751,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "711": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 752,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "712": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 753,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "713": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 754,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "714": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 755,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "715": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 756,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "716": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 757,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "717": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 758,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "718": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 759,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "719": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 760,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "720": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 761,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "721": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 762,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "722": {
+    "tokens": 170,
+    "attempt": 0,
+    "seed": 763,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "723": {
+    "tokens": 164,
+    "attempt": 0,
+    "seed": 764,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "724": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 765,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "725": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 766,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "726": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 767,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "727": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 768,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "728": {
+    "tokens": 166,
+    "attempt": 0,
+    "seed": 769,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "729": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 770,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "730": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 771,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "731": {
+    "tokens": 171,
+    "attempt": 0,
+    "seed": 772,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "732": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 773,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "733": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 774,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "734": {
+    "tokens": 169,
+    "attempt": 0,
+    "seed": 775,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "735": {
+    "tokens": 171,
+    "attempt": 0,
+    "seed": 776,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "736": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 777,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "737": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 778,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "738": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 779,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "739": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 780,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "740": {
+    "tokens": 185,
+    "attempt": 0,
+    "seed": 781,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "741": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 782,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "742": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 783,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "743": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 784,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "744": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 785,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "745": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 786,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "746": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 787,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "747": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 788,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "748": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 789,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "749": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 790,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "750": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 791,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "751": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 792,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "752": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 793,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "753": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 794,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "754": {
+    "tokens": 168,
+    "attempt": 0,
+    "seed": 795,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "755": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 796,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "756": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 797,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "757": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 798,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "758": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 799,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "759": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 800,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "760": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 801,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "761": {
+    "tokens": 135,
+    "attempt": 0,
+    "seed": 802,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "762": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 803,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "763": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 804,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "764": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 805,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "765": {
+    "tokens": 164,
+    "attempt": 0,
+    "seed": 806,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "766": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 807,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "767": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 808,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "768": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 809,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "769": {
+    "tokens": 170,
+    "attempt": 0,
+    "seed": 810,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "770": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 811,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "771": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 812,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "772": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 813,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "773": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 814,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "774": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 815,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "775": {
+    "tokens": 168,
+    "attempt": 0,
+    "seed": 816,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "776": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 817,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "777": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 818,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "778": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 819,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "779": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 820,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "780": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 821,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "781": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 822,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "782": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 823,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "783": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 824,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "784": {
+    "tokens": 168,
+    "attempt": 0,
+    "seed": 825,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "785": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 826,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "786": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 827,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "787": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 828,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "788": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 829,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "789": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 830,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "790": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 831,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "791": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 832,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "792": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 833,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "793": {
+    "tokens": 169,
+    "attempt": 0,
+    "seed": 834,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "794": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 835,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "795": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 836,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "796": {
+    "tokens": 164,
+    "attempt": 0,
+    "seed": 837,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "797": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 838,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "798": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 839,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "799": {
+    "tokens": 167,
+    "attempt": 0,
+    "seed": 840,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "800": {
+    "tokens": 133,
+    "attempt": 0,
+    "seed": 841,
+    "temperature": 0.7,
+    "context_resets": 1,
+    "previous_failures": []
+  },
+  "801": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 842,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "802": {
+    "tokens": 167,
+    "attempt": 0,
+    "seed": 843,
+    "temperature": 0.7,
+    "context_resets": 1,
+    "previous_failures": []
+  },
+  "803": {
+    "tokens": 188,
+    "attempt": 0,
+    "seed": 844,
+    "temperature": 0.7,
+    "context_resets": 1,
+    "previous_failures": []
+  },
+  "804": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 845,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "805": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 846,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "806": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 847,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "807": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 848,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "808": {
+    "tokens": 169,
+    "attempt": 0,
+    "seed": 849,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "809": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 850,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "810": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 851,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "811": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 852,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "812": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 853,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "813": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 854,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "814": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 855,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "815": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 856,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "816": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 857,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "817": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 858,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "818": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 859,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "819": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 860,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "820": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 861,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "821": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 862,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "822": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 863,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "823": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 864,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "824": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 865,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "825": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 866,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "826": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 867,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "827": {
+    "tokens": 173,
+    "attempt": 0,
+    "seed": 868,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "828": {
+    "tokens": 172,
+    "attempt": 0,
+    "seed": 869,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "829": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 870,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "830": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 871,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "831": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 872,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "832": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 873,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "833": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 874,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "834": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 875,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "835": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 876,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "836": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 877,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "837": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 878,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "838": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 879,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "839": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 880,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "840": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 881,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "841": {
+    "tokens": 170,
+    "attempt": 0,
+    "seed": 882,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "842": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 883,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "843": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 884,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "844": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 885,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "845": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 886,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "846": {
+    "tokens": 169,
+    "attempt": 0,
+    "seed": 887,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "847": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 888,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "848": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 889,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "849": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 890,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "850": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 891,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "851": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 892,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "852": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 893,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "853": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 894,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "854": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 895,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "855": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 896,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "856": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 897,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "857": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 898,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "858": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 899,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "859": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 900,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "860": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 901,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "861": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 902,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "862": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 903,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "863": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 904,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "864": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 905,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "865": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 906,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "866": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 907,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "867": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 908,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "868": {
+    "tokens": 165,
+    "attempt": 0,
+    "seed": 909,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "869": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 910,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "870": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 911,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "871": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 912,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "872": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 913,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "873": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 914,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "874": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 915,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "875": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 916,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "876": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 917,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "877": {
+    "tokens": 166,
+    "attempt": 0,
+    "seed": 918,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "878": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 919,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "879": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 920,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "880": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 921,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "881": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 922,
+    "temperature": 0.7,
+    "context_resets": 1,
+    "previous_failures": []
+  },
+  "882": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 923,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "883": {
+    "tokens": 176,
+    "attempt": 0,
+    "seed": 924,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "884": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 925,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "885": {
+    "tokens": 137,
+    "attempt": 0,
+    "seed": 926,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "886": {
+    "tokens": 167,
+    "attempt": 0,
+    "seed": 927,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "887": {
+    "tokens": 190,
+    "attempt": 0,
+    "seed": 928,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "888": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 929,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "889": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 930,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "890": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 931,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "891": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 932,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "892": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 933,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "893": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 934,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "894": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 935,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "895": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 936,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "896": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 937,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "897": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 938,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "898": {
+    "tokens": 164,
+    "attempt": 0,
+    "seed": 939,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "899": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 940,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "900": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 941,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "901": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 942,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "902": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 943,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "903": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 944,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "904": {
+    "tokens": 173,
+    "attempt": 0,
+    "seed": 945,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "905": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 946,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "906": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 947,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "907": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 948,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "908": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 949,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "909": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 950,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "910": {
+    "tokens": 137,
+    "attempt": 0,
+    "seed": 951,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "911": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 952,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "912": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 953,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "913": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 954,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "914": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 955,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "915": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 956,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "916": {
+    "tokens": 178,
+    "attempt": 0,
+    "seed": 957,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "917": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 958,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "918": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 959,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "919": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 960,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "920": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 961,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "921": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 962,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "922": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 963,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "923": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 964,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "924": {
+    "tokens": 175,
+    "attempt": 0,
+    "seed": 965,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "925": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 966,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "926": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 967,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "927": {
+    "tokens": 139,
+    "attempt": 0,
+    "seed": 968,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "928": {
+    "tokens": 148,
+    "attempt": 0,
+    "seed": 969,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "929": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 970,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "930": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 971,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "931": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 972,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "932": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 973,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "933": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 974,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "934": {
+    "tokens": 163,
+    "attempt": 0,
+    "seed": 975,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "935": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 976,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "936": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 977,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "937": {
+    "tokens": 173,
+    "attempt": 0,
+    "seed": 978,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "938": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 979,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "939": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 980,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "940": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 981,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "941": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 982,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "942": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 983,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "943": {
+    "tokens": 202,
+    "attempt": 0,
+    "seed": 984,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "944": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 985,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "945": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 986,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "946": {
+    "tokens": 143,
+    "attempt": 0,
+    "seed": 987,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "947": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 988,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "948": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 989,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "949": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 990,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "950": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 991,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "951": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 992,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "952": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 993,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "953": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 994,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "954": {
+    "tokens": 149,
+    "attempt": 0,
+    "seed": 995,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "955": {
+    "tokens": 166,
+    "attempt": 0,
+    "seed": 996,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "956": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 997,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "957": {
+    "tokens": 138,
+    "attempt": 0,
+    "seed": 998,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "958": {
+    "tokens": 161,
+    "attempt": 0,
+    "seed": 999,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "959": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 1000,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "960": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 1001,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "961": {
+    "tokens": 155,
+    "attempt": 0,
+    "seed": 1002,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "962": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 1003,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "963": {
+    "tokens": 167,
+    "attempt": 0,
+    "seed": 1004,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "964": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 1005,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "965": {
+    "tokens": 147,
+    "attempt": 0,
+    "seed": 1006,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "966": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 1007,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "967": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 1008,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "968": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 1009,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "969": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 1010,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "970": {
+    "tokens": 144,
+    "attempt": 0,
+    "seed": 1011,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "971": {
+    "tokens": 172,
+    "attempt": 0,
+    "seed": 1012,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "972": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 1013,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "973": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 1014,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "974": {
+    "tokens": 153,
+    "attempt": 0,
+    "seed": 1015,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "975": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 1016,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "976": {
+    "tokens": 142,
+    "attempt": 0,
+    "seed": 1017,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "977": {
+    "tokens": 136,
+    "attempt": 0,
+    "seed": 1018,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "978": {
+    "tokens": 152,
+    "attempt": 0,
+    "seed": 1019,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "979": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 1020,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "980": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 1021,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "981": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 1022,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "982": {
+    "tokens": 162,
+    "attempt": 0,
+    "seed": 1023,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "983": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 1024,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "984": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 1025,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "985": {
+    "tokens": 160,
+    "attempt": 0,
+    "seed": 1026,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "986": {
+    "tokens": 159,
+    "attempt": 0,
+    "seed": 1027,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "987": {
+    "tokens": 157,
+    "attempt": 0,
+    "seed": 1028,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "988": {
+    "tokens": 150,
+    "attempt": 0,
+    "seed": 1029,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "989": {
+    "tokens": 189,
+    "attempt": 0,
+    "seed": 1030,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "990": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 1031,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "991": {
+    "tokens": 151,
+    "attempt": 0,
+    "seed": 1032,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "992": {
+    "tokens": 141,
+    "attempt": 0,
+    "seed": 1033,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "993": {
+    "tokens": 195,
+    "attempt": 0,
+    "seed": 1034,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "994": {
+    "tokens": 140,
+    "attempt": 0,
+    "seed": 1035,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "995": {
+    "tokens": 145,
+    "attempt": 0,
+    "seed": 1036,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "996": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 1037,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "997": {
+    "tokens": 158,
+    "attempt": 0,
+    "seed": 1038,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "998": {
+    "tokens": 156,
+    "attempt": 0,
+    "seed": 1039,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "999": {
+    "tokens": 154,
+    "attempt": 0,
+    "seed": 1040,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  },
+  "1000": {
+    "tokens": 146,
+    "attempt": 0,
+    "seed": 1041,
+    "temperature": 0.7,
+    "context_resets": 0,
+    "previous_failures": []
+  }
+}

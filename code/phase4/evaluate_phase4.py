@@ -5,7 +5,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import argparse
 
-from evaluation import align, classify, read, records
+from evaluation import align, classification_counts, label_metrics, read, records
 
 
 def main():
@@ -30,7 +30,10 @@ def main():
         pairs = list(align(truth, pred))
     if any(type(v) is not int or v not in (0, 1) for pair in pairs for v in pair):
         raise ValueError("Expected binary integer labels")
-    print(json.dumps({"macro_f1": classify(pairs, [0, 1])}, indent=2))
+    report = label_metrics(classification_counts(pairs), [0, 1])
+    positive = report["per_label"][1]
+    print(json.dumps({"macro_f1": report["macro_f1"], "precision": positive["precision"],
+                      "recall": positive["recall"], "examples": len(pairs)}, indent=2))
 
 
 if __name__ == "__main__":

@@ -49,67 +49,67 @@
       "sha256": "cc96be645a43770beca662e5dd197634db1f88c3e150810e6421182b702ae55b"
     },
     {
-      "path": "runs/relay_lstm/data_report.json",
+      "path": "model4_relay_lstm/data_report.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/data_report.json",
       "sha256": "3593f7e34086cb2bb7cfc0447c736f18a3f5c9b87d77b786b074324b28f4bcdd"
     },
     {
-      "path": "runs/relay_lstm/hf_sources.json",
+      "path": "model4_relay_lstm/hf_sources.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/hf_sources.json",
       "sha256": "8af1cfde66a1f12501f7601f60187053a12987ce1565fca9794023f68846c968"
     },
     {
-      "path": "runs/relay_lstm/data_config.json",
+      "path": "model4_relay_lstm/data_config.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/data_config.json",
       "sha256": "d0db6adac1f12c8dd80ee99a794373a16eee8892d6a8fe77a4f037256f3b1ba2"
     },
     {
-      "path": "runs/relay_lstm/progress.json",
+      "path": "model4_relay_lstm/progress.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/progress.json",
       "sha256": "d7877ab906a7b806fdb4801973307ea964cd07ea0256531708ea81b84fca83c4"
     },
     {
-      "path": "runs/relay_lstm/tokenizer.json",
+      "path": "shared/bridge_relay_tokenizer.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/tokenizer.json",
       "sha256": "3242bd497d3d5646bee12f8cd86ec289aaafed393a4cff632bd40a3cbd0c73ec"
     },
     {
-      "path": "runs/relay_lstm/experiment.json",
+      "path": "model4_relay_lstm/experiment.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/experiment.json",
       "sha256": "ddfe47283cf8736a14e10a444ed503e5e546c34f2386a73433aa2658d5602702"
     },
     {
-      "path": "runs/relay_lstm/environment.json",
+      "path": "model4_relay_lstm/environment.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/environment.json",
       "sha256": "726f27cefb273d8c0eb53d99dcd8520cd8f8c8f1996dc08e2d4f38c2d7ca16c0"
     },
     {
-      "path": "runs/relay_lstm/modeling.py",
+      "path": "model4_relay_lstm/modeling.py",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/modeling.py",
       "sha256": "79ff2215014748ec84821b6b8dcdaa6ed2c5135027757b5e882744f6bbe4ec12"
     },
     {
-      "path": "runs/relay_lstm/packed_report.json",
+      "path": "model4_relay_lstm/packed_report.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/packed_report.json",
       "sha256": "069ce8a87f2bd19410ac4a506f67bc8bc150823d7979dad6bb0d6d1310373ada"
     },
     {
-      "path": "runs/relay_lstm/history.jsonl",
+      "path": "model4_relay_lstm/history.jsonl",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/history.jsonl",
       "sha256": "17fdbf5c8672aeec3dd6bb3b4a6062480d1fe9019d740f413355fabef0bb14b4"
     },
     {
-      "path": "runs/relay_lstm/continuation_eval.json",
+      "path": "model4_relay_lstm/continuation_eval.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/continuation_eval.json",
       "sha256": "650b71428bb475f867d40015cfe7874fe23f6bf92aae1fa339faa3513bfd1d39",
@@ -117,142 +117,160 @@
       "transformation": "Removed prompt and reference text."
     },
     {
-      "path": "runs/relay_lstm/model_config.json",
+      "path": "model4_relay_lstm/model_config.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/model_config.json",
       "sha256": "c419f7abf149f1daede63ad84a6fa70428675eab77e49af1ec8aacc556503579"
     },
     {
-      "path": "runs/relay_lstm/training_budget.json",
+      "path": "model4_relay_lstm/training_budget.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/training_budget.json",
       "sha256": "0dda8fa2f3b69812fb7a12a0c3132c277fe53397d10da25a6c038c344d748239"
     },
     {
-      "path": "runs/relay_lstm/benchmark.json",
+      "path": "model4_relay_lstm/benchmark.json",
       "archive": "phase1.zip",
       "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/benchmark.json",
       "sha256": "bc5be2d4ab765b505983d381dd60803f4625e1889f91a1a1a801e7edf8564e49"
     },
     {
-      "path": "runs/bridgeformer/progress.json",
+      "path": "model2_bridgeformer/progress.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/progress.json",
       "sha256": "a7048a91c7c0fd5e7156bd2e4c1a731e2fdfc9b5718b3037e1f17adb37ad9cfd"
     },
     {
-      "path": "runs/bridgeformer/data_config.json",
+      "path": "model2_bridgeformer/data_config.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/data_config.json",
       "sha256": "d0db6adac1f12c8dd80ee99a794373a16eee8892d6a8fe77a4f037256f3b1ba2"
     },
     {
-      "path": "runs/bridgeformer/environment.json",
+      "path": "model2_bridgeformer/environment.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/environment.json",
       "sha256": "d70f4718ccc4d174e4335adfea8ac6a09fcf2003703fc5eb95b0a56dfaee4e86"
     },
     {
-      "path": "runs/bridgeformer/experiment.json",
+      "path": "model2_bridgeformer/experiment.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/experiment.json",
       "sha256": "913216d16c0979f7269102d1b893daef83fba776c4905158ec768ccdef5755ed"
     },
     {
-      "path": "runs/bridgeformer/data_report.json",
+      "path": "model2_bridgeformer/data_report.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/data_report.json",
       "sha256": "3593f7e34086cb2bb7cfc0447c736f18a3f5c9b87d77b786b074324b28f4bcdd"
     },
     {
-      "path": "runs/bridgeformer/training_budget.json",
+      "path": "model2_bridgeformer/training_budget.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/training_budget.json",
       "sha256": "5705f4db5119bed5a8b5ff87adb2838c9df56053f8870025bab8ec3ab496f725"
     },
     {
-      "path": "runs/bridgeformer/benchmark.json",
+      "path": "model2_bridgeformer/benchmark.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/benchmark.json",
       "sha256": "1ccedd38e5bfdd36788464c6d8f2211b9894e3f81e2158c364e5dd1309ab52f7"
     },
     {
-      "path": "runs/bridgeformer/model_config.json",
+      "path": "model2_bridgeformer/model_config.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/model_config.json",
       "sha256": "12e3bb52a8f978a09b04550ca6c5a717e9b34172f0bdd6d4c83989f21cbd347c"
     },
     {
-      "path": "runs/bridgeformer/tokenizer.json",
+      "path": "shared/bridge_relay_tokenizer.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/tokenizer.json",
       "sha256": "3242bd497d3d5646bee12f8cd86ec289aaafed393a4cff632bd40a3cbd0c73ec"
     },
     {
-      "path": "runs/bridgeformer/history.jsonl",
+      "path": "model2_bridgeformer/history.jsonl",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/history.jsonl",
       "sha256": "47d123958de6b4061c5eb1837c4eebe89b1d9b0c0e2a43665507b0e153c2072d"
     },
     {
-      "path": "runs/bridgeformer/modeling.py",
+      "path": "model2_bridgeformer/modeling.py",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/modeling.py",
       "sha256": "8e43446473478983b8673861b3f1e6ee68fc6b7dba3ce519c631f4542f936cb6"
     },
     {
-      "path": "runs/bridgeformer/hf_sources.json",
+      "path": "model2_bridgeformer/hf_sources.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/hf_sources.json",
       "sha256": "8af1cfde66a1f12501f7601f60187053a12987ce1565fca9794023f68846c968"
     },
     {
-      "path": "runs/bridgeformer/packed_report.json",
+      "path": "model2_bridgeformer/packed_report.json",
       "archive": "bridge_200m_full_v1-20261006T060027Z-1-001.zip",
       "member": "bridge_200m_full_v1/packed_report.json",
       "sha256": "069ce8a87f2bd19410ac4a506f67bc8bc150823d7979dad6bb0d6d1310373ada"
     },
     {
-      "path": "runs/lexweave/requested_config.json",
+      "path": "model1_lexweave/requested_config.json",
       "archive": "foundation_model.zip",
       "member": "requested_config.json",
       "sha256": "d00fba391aab7ec831b7bec3763efc3d2fdd9e73db968904c6ee59e518dd278a"
     },
     {
-      "path": "runs/lexweave/tokenizer_manifest.json",
+      "path": "model1_lexweave/tokenizer_manifest.json",
       "archive": "foundation_model.zip",
       "member": "tokenizer_manifest.json",
       "sha256": "56269f2725de8dd58cb03d62e70782b3f5f4d3ca67a2d114e477865f6e85821b"
     },
     {
-      "path": "runs/lexweave/environment.json",
+      "path": "model1_lexweave/environment.json",
       "archive": "foundation_model.zip",
       "member": "environment.json",
       "sha256": "3c74cbdfcd252f936859b2ee9ee7b227474d46119c596708fa34f4e3cbf5a133"
     },
     {
-      "path": "runs/lexweave/tokenizer.json",
+      "path": "model1_lexweave/tokenizer.json",
       "archive": "foundation_model.zip",
       "member": "tokenizer.json",
       "sha256": "f55b61a8554d92547813de81f1d859257b3f1d79f8756fec2cca2c751ae9b201"
     },
     {
-      "path": "runs/lexweave/metrics.json",
+      "path": "model1_lexweave/metrics.json",
       "archive": "foundation_model.zip",
       "member": "metrics.json",
       "sha256": "de05142e33dc9a77981e3b3638bbaa0c98e7e16712df8a3d2136681fe70acddf"
     },
     {
-      "path": "runs/lexweave/raw_manifest.json",
+      "path": "model1_lexweave/raw_manifest.json",
       "archive": "lexy-pytorch-default-v1.tar.gz",
       "member": "raw_manifest.json",
       "sha256": "dc993e25c3c5fe1e69e2a1d4813f79e63061516ed441a8905bfda1785a894dcc"
     },
     {
-      "path": "runs/lexweave/packed_manifest.json",
+      "path": "model1_lexweave/packed_manifest.json",
       "archive": "lexy-pytorch-default-v1.tar.gz",
       "member": "packed_manifest.json",
       "sha256": "ca8bbf8345bc20046bb678e78729cdf2e90ff66a8c51de424f99af7f6e69a54d"
+    },
+    {
+      "path": "model4_relay_lstm/generation/failures.json",
+      "archive": "phase1.zip",
+      "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/submission_7fd2769a59d7/failures.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": "model4_relay_lstm/generation/manifest.json",
+      "archive": "phase1.zip",
+      "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/submission_7fd2769a59d7/manifest.json",
+      "sha256": "2c872cf66d72b5eac7d8010263941edb6f15819448683b7dd78eabe7dfc5a013"
+    },
+    {
+      "path": "model4_relay_lstm/generation/generation_info.json",
+      "archive": "phase1.zip",
+      "member": "cs781_remaining/runs/relay_lstm_200m_full_v1/submission_7fd2769a59d7/generation_info.json",
+      "sha256": "8bdffdb6022604cb1026d8d5d43c7de60d93554c024c95ce12ab8e8d3ec5893d"
     }
   ],
   "submissions": [
@@ -264,7 +282,7 @@
       "local_export": "v3_submission.zip",
       "prediction_sha256": "1ba114979a2a9d5665eacb89146f624bc49744706373df261e3acba2b69c5644",
       "matching_prediction_paths": [
-        "submissions/965457/prediction.json"
+        "model1_lexweave/submissions/v3/prediction.json"
       ]
     },
     {
@@ -275,7 +293,7 @@
       "local_export": "v2_submission.zip",
       "prediction_sha256": "4ec91da32f06c2c63c112f6aa18f186a94d448cd9946d5fe17f5feee91aad2d6",
       "matching_prediction_paths": [
-        "submissions/965367/prediction.json"
+        "model1_lexweave/submissions/v2/prediction.json"
       ]
     },
     {
@@ -286,7 +304,7 @@
       "local_export": "bridge_200m_full_v1_cd0e257a4203.zip",
       "prediction_sha256": "2d33f6770caff85bfb87d47afde2242ae064c761f8064fb7d66cb8691fb5013b",
       "matching_prediction_paths": [
-        "submissions/964365/prediction.json"
+        "model2_bridgeformer/submission/prediction.json"
       ]
     },
     {
@@ -297,7 +315,7 @@
       "local_export": "relay_lstm_200m_full_v1_7fd2769a59d7.zip",
       "prediction_sha256": "79777ea048513d9ce7a341848e4684cd5e179892bee0ad5ff39545c5839c4717",
       "matching_prediction_paths": [
-        "runs/relay_lstm/prediction.json"
+        "model4_relay_lstm/prediction.json"
       ]
     },
     {
@@ -308,7 +326,7 @@
       "local_export": "anchor_gpt_150m_full_v2_submission_a836afbf83c9.zip",
       "prediction_sha256": "48fc09eb49b45090c04953b6bbb22d346cfb89fca6dffe564d804329de8bc8b9",
       "matching_prediction_paths": [
-        "submissions/962399/prediction.json"
+        "model3_anchor_gpt/submissions/v2/prediction.json"
       ]
     },
     {
@@ -319,7 +337,7 @@
       "local_export": "anchor_gpt_150m_full_v1_849b3d6003c6.zip",
       "prediction_sha256": "3fe39219cfe768f540713040c9ead76552c0f6a5ab6940641ff4e11039f1a2fb",
       "matching_prediction_paths": [
-        "submissions/961282/prediction.json"
+        "model3_anchor_gpt/submissions/v1/prediction.json"
       ]
     },
     {
@@ -330,13 +348,13 @@
       "local_export": "submission_lexweave_decode_v2.zip",
       "prediction_sha256": "3879e8509022c6631d072a6a5f8da8111b717f0634d3a8a877ba0703fa0f70dd",
       "matching_prediction_paths": [
-        "submissions/958463/prediction.json"
+        "model1_lexweave/submissions/decode_v2/prediction.json"
       ]
     }
   ],
   "matching_basis": "Submission IDs, displayed filenames, status and scores were transcribed from Codabench screenshots. Local exports are associated by filename. Run links identify equal parsed prediction JSON; a matching filename alone does not prove what was uploaded.",
   "partial_primary": {
-    "file": "runs/lexweave/primary_partial.json",
+    "file": "model1_lexweave/primary_partial.json",
     "sha256": "a46c70fdeae54e4f3c36449e6f895e82eb25bd7b1169fe216bc8cc6deb59de0a",
     "matching_v2_records": 196,
     "source_filename": "prediction (2).json"

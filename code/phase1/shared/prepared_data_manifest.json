@@ -1,0 +1,23 @@
+{
+  "tokenizers": [
+    {
+      "models_with_verified_tokenizer": [
+        "BridgeFormer",
+        "RelayLSTM"
+      ],
+      "path": "shared/bridge_relay_tokenizer.json",
+      "sha256": "3242bd497d3d5646bee12f8cd86ec289aaafed393a4cff632bd40a3cbd0c73ec"
+    },
+    {
+      "models_with_verified_tokenizer": [
+        "LEXWeave"
+      ],
+      "path": "model1_lexweave/tokenizer.json",
+      "sha256": "f55b61a8554d92547813de81f1d859257b3f1d79f8756fec2cca2c751ae9b201"
+    }
+  ],
+  "lexweave_raw_data": "model1_lexweave/raw_manifest.json",
+  "lexweave_packed_data": "model1_lexweave/packed_manifest.json",
+  "path_base": "phase1",
+  "anchor_gpt": "Tokenizer from the training session was unavailable."
+}

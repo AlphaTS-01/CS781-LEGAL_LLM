@@ -6,3 +6,10 @@ code/phase*/final_predictions/** -text
 code/phase*/final_six_hybrid/** -text
 code/phase*/session_source.py -text
 code/phase3/label_vocab.json -text
+code/phase1/model*/*.json -text
+code/phase1/model*/*.jsonl -text
+code/phase1/model*/*.py -text
+code/phase1/shared/*tokenizer.json -text
+code/phase2/model1_lexweave/**/*.json -text
+code/phase2/model1_lexweave/results.jsonl -text
+code/phase1/model*/**/*.json -text

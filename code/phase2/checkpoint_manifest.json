@@ -45,7 +45,7 @@
   ],
   "outputs": [
     {
-      "path": "runs/results.jsonl",
+      "path": "model1_lexweave/results.jsonl",
       "archive": "phase2_kaggle_output.zip",
       "member": "cs781_phase2/results.jsonl",
       "sha256": "5fe428435d12d6d6c4fc4b75df732e5d6ac9c4efcc26469293b0caa81515538f"
@@ -57,37 +57,37 @@
       "sha256": "29ef52d188f29d934f21797b0193ef0c6ad6815936e5ee4ee09ff048b177c702"
     },
     {
-      "path": "runs/E5_partial_M1_lexweave/prediction.json",
+      "path": "model1_lexweave/E5_partial_M1_lexweave/prediction.json",
       "archive": "phase2_kaggle_output.zip",
       "member": "cs781_phase2/E5_partial_M1_lexweave/prediction.json",
       "sha256": "e8a08096de44e9544909edd17ad736f8c541b6efcf21024d66d26f043a1031f1"
     },
     {
-      "path": "runs/E2_lorma_M1_lexweave/prediction.json",
+      "path": "model1_lexweave/E2_lorma_M1_lexweave/prediction.json",
       "archive": "phase2_kaggle_output.zip",
       "member": "cs781_phase2/E2_lorma_M1_lexweave/prediction.json",
       "sha256": "b50e7cf51f4473367ae9382733a167fd7566ca1ee947b9a4ea0a82d5989fc450"
     },
     {
-      "path": "runs/E3_lora_cont_M1_lexweave/prediction.json",
+      "path": "model1_lexweave/E3_lora_cont_M1_lexweave/prediction.json",
       "archive": "phase2_kaggle_output.zip",
       "member": "cs781_phase2/E3_lora_cont_M1_lexweave/prediction.json",
       "sha256": "79d54bdc42924477d622a93e4080e1399a22a2e72f6b388d8039faeebf44ebbb"
     },
     {
-      "path": "runs/E6_kd_M1_lexweave/prediction.json",
+      "path": "model1_lexweave/E6_kd_M1_lexweave/prediction.json",
       "archive": "phase2_kaggle_output.zip",
       "member": "cs781_phase2/E6_kd_M1_lexweave/prediction.json",
       "sha256": "b9ebae9b3459a7365ea1603cca011535abf91e55f88f7d6d0c0c7b3edc6cc01e"
     },
     {
-      "path": "runs/E1_full_M1_lexweave/prediction.json",
+      "path": "model1_lexweave/E1_full_M1_lexweave/prediction.json",
       "archive": "phase2_kaggle_output.zip",
       "member": "cs781_phase2/E1_full_M1_lexweave/prediction.json",
       "sha256": "e902e9c51a2dbeec67d0a5eb5a99c448673f484b45125b7c2960ece9baeb4707"
     },
     {
-      "path": "runs/E3_lora_M1_lexweave/prediction.json",
+      "path": "model1_lexweave/E3_lora_M1_lexweave/prediction.json",
       "archive": "phase2_kaggle_output.zip",
       "member": "cs781_phase2/E3_lora_M1_lexweave/prediction.json",
       "sha256": "3539617d0854fbccef95455d323adecf12db7dab51c8376005043959e29ed558"
@@ -102,7 +102,7 @@
       "local_export": "final.zip",
       "prediction_sha256": "79d54bdc42924477d622a93e4080e1399a22a2e72f6b388d8039faeebf44ebbb",
       "matching_prediction_paths": [
-        "runs/E3_lora_cont_M1_lexweave/prediction.json"
+        "model1_lexweave/E3_lora_cont_M1_lexweave/prediction.json"
       ]
     },
     {
@@ -113,7 +113,7 @@
       "local_export": "e6_kd.zip",
       "prediction_sha256": "b9ebae9b3459a7365ea1603cca011535abf91e55f88f7d6d0c0c7b3edc6cc01e",
       "matching_prediction_paths": [
-        "runs/E6_kd_M1_lexweave/prediction.json"
+        "model1_lexweave/E6_kd_M1_lexweave/prediction.json"
       ]
     },
     {
@@ -124,7 +124,7 @@
       "local_export": "e5_partial.zip",
       "prediction_sha256": "e8a08096de44e9544909edd17ad736f8c541b6efcf21024d66d26f043a1031f1",
       "matching_prediction_paths": [
-        "runs/E5_partial_M1_lexweave/prediction.json"
+        "model1_lexweave/E5_partial_M1_lexweave/prediction.json"
       ]
     },
     {
@@ -135,7 +135,7 @@
       "local_export": "e3_lora.zip",
       "prediction_sha256": "3539617d0854fbccef95455d323adecf12db7dab51c8376005043959e29ed558",
       "matching_prediction_paths": [
-        "runs/E3_lora_M1_lexweave/prediction.json"
+        "model1_lexweave/E3_lora_M1_lexweave/prediction.json"
       ]
     },
     {
@@ -146,7 +146,7 @@
       "local_export": "E2_lorma.zip",
       "prediction_sha256": "b50e7cf51f4473367ae9382733a167fd7566ca1ee947b9a4ea0a82d5989fc450",
       "matching_prediction_paths": [
-        "runs/E2_lorma_M1_lexweave/prediction.json"
+        "model1_lexweave/E2_lorma_M1_lexweave/prediction.json"
       ]
     },
     {
@@ -157,7 +157,7 @@
       "local_export": "E1_full.zip",
       "prediction_sha256": "e902e9c51a2dbeec67d0a5eb5a99c448673f484b45125b7c2960ece9baeb4707",
       "matching_prediction_paths": [
-        "runs/E1_full_M1_lexweave/prediction.json"
+        "model1_lexweave/E1_full_M1_lexweave/prediction.json"
       ]
     }
   ],

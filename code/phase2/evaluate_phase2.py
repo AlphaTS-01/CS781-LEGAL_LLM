@@ -3,7 +3,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from evaluation import align, counts, macro, parser, read
+from evaluation import align, counts, label_metrics, parser, read
 
 
 def main():
@@ -24,7 +24,9 @@ def main():
         gold.update(span[2] for span in spans[0])
         predicted.update(span[2] for span in spans[1])
         correct.update(span[2] for span in spans[0] & spans[1])
-    print(json.dumps({"strict_macro_f1": macro((gold, predicted, correct), labels)}, indent=2))
+    report = label_metrics((gold, predicted, correct), labels)
+    report["strict_macro_f1"] = report.pop("macro_f1")
+    print(json.dumps(report, indent=2))
 
 
 if __name__ == "__main__":
