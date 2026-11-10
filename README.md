@@ -6,7 +6,7 @@ This project trains compact language models on legal text and adapts them for si
 
 | Phase | Submitted code | Kaggle experiments |
 | --- | --- | --- |
-| 1 · Legal continuation | [LEXWeave continuation](code/phase1/run.ipynb) and [prediction merge](code/phase1/merge.py) | [Relay LSTM](https://www.kaggle.com/code/tejass73/relaylstmp1) · [Bridge](https://www.kaggle.com/code/tejass73/bridgp1) |
+| 1 · Legal continuation | [Four architecture notebooks and prediction merge](code/phase1/README.md) | [Relay LSTM](https://www.kaggle.com/code/tejass73/relaylstmp1) · [Bridge](https://www.kaggle.com/code/tejass73/bridgp1) |
 | 2 · Named entity recognition | [NER notebook](code/phase2/run.ipynb) | [phase2n1](https://www.kaggle.com/code/tejass73/phase2n1) |
 | 3 · Rhetorical role prediction | [Role classification notebook](code/phase3/run.ipynb) | [phase3n](https://www.kaggle.com/code/tejass73/phase3n) |
 | 4 · Judgment outcome prediction | [Judgment prediction notebook](code/phase4/run.ipynb) | [phase4n](https://www.kaggle.com/code/tejass73/phase4n) |
